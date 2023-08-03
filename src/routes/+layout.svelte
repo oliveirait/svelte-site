@@ -1,9 +1,19 @@
 <script>
   import "../app.postcss";
+  import Header from "$lib/header/Header.svelte";
+  import Footer from "$lib/footer/Footer.svelte";
 </script>
 
-<div class="w-screen h-screen items-center justify-center flex-col">
-  <slot />
-</div>
+
+  <Header />
+
+  <div class="w-screen h-screen flex flex-col dark:bg-gray-900">
+    <slot />
+  </div>
+
+  <Footer />
+
+
+
 
 
