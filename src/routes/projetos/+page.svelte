@@ -11,12 +11,12 @@
             fetch(endpoint2).then((data) => data.json()).then(data => {
             items = data
         })
-        }, 3000)
+        }, 500)
 
     }
 
 
-  // onMount(getData)
+    onMount(getData)
     
 
 </script>
