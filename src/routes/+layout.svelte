@@ -7,7 +7,7 @@
 
   <Header />
 
-  <div class="w-screen h-screen flex flex-col dark:bg-gray-900">
+  <div class="w-full h-full flex flex-col dark:bg-gray-900 min-h-screen">
     <slot />
   </div>
 
