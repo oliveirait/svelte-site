@@ -28,7 +28,7 @@
       "secondDivInfoStation": {
         "container": "_sequenceCard_15gkv_1"
       },
-      "itemOfPageCheck": "none" 
+      "itemOfPageCheck": "#map" 
     }
   }
 }
