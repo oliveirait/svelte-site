@@ -1,5 +1,4 @@
-{
-  "data": [
+[
     {
       "userID": "uuid1",
       "avatar_url": "https://avatars.githubusercontent.com/u/79618981?v=4",
@@ -44,5 +43,5 @@
       "score": "90",
       "icon_status": "check_circle_outline_outlined"
     }
-  ]
-}
+]
+
