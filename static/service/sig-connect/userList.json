@@ -1,0 +1,46 @@
+[
+  {
+    "userID": "uuid1",
+    "avatar_url": "https://avatars.githubusercontent.com/u/79618981?v=4",
+    "name": " FELIPE DE OLIVEIRA",
+    "category": "MORADOR",
+    "score": "90",
+    "icon_status": "check_circle_outline_outlined"
+  },
+
+  {
+    "userID": "uuid2",
+    "avatar_url": "https://avatars.githubusercontent.com/u/89646227?v=4",
+    "name": "MAYCON SIGSCHINDLER",
+    "category": "PROPRIETARIO - EVENTUAL",
+    "score": "99",
+    "icon_status": "check_circle_outline_outlined"
+  },
+
+  {
+    "userID": "uuid3",
+    "avatar_url": "https://pps.whatsapp.net/v/t61.24694-24/321205143_239226821773704_5177957768133506777_n.jpg?ccb=11-4&oh=01_AdSkS8XjFCrAtvLJqLD7uO4SATq8ihoXkUROMYnNvgY7Qw&oe=64EB9E98&_nc_cat=100",
+    "name": "SIGIS SIGISMUND SIGSCHINDLER",
+    "category": "MORADOR",
+    "score": "90",
+    "icon_status": "report_problem_outlined"
+  },
+
+  {
+    "userID": "uuid4",
+    "avatar_url": "https://pps.whatsapp.net/v/t61.24694-24/361217998_3564369733785740_3511705793664413632_n.jpg?ccb=11-4&oh=01_AdQ9lnVvltb8CxFnMp4u_gw-JETIsj9RNZ95mMLByMwLog&oe=64EB752B&_nc_cat=104",
+    "name": "MARCOS SIGSCHINDLER",
+    "category": "PROPRIETARIO",
+    "score": "90",
+    "icon_status": "check_circle_outline_outlined"
+  },
+
+  {
+    "userID": "uuid5",
+    "avatar_url": "https://pps.whatsapp.net/v/t61.24694-24/121199004_245674143672743_4854617367343323784_n.jpg?ccb=11-4&oh=01_AdTKQvLO6YcTifVLetxZaE0kXOrcg5q5fBqNN2zWgY-PzA&oe=64EB74AF&_nc_cat=108",
+    "name": "FLAVIO DA SIGSCHINDLER",
+    "category": "MORADOR",
+    "score": "90",
+    "icon_status": "check_circle_outline_outlined"
+  }
+]
