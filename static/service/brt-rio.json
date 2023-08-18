@@ -15,5 +15,20 @@
       "text": "No painel abaixo selecione o SENTIDO para obter informações do tempo de chegada dos BRTs \n\nEx: \nSENTIDO BARRA - PARADOR \nSENTIDO BARRA - EXPRESSO",
       "button_yes": "Fechar"
     }
+  },
+  "webViewParams": {
+    "injected": { 
+      "headerElement": "#root > header", 
+      "divInfoStation": { 
+        "container": "._routesCard_2o0e2_1",
+        "border": "2px solid #F2B007",
+        "height": "100vh",
+        "boxShadow": "2px 2px 2px #000"
+      },
+      "secondDivInfoStation": {
+        "container": "_sequenceCard_15gkv_1"
+      },
+      "itemOfPageCheck": "none" 
+    }
   }
 }
