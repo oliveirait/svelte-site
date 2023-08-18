@@ -1,6 +1,6 @@
 {
   "home": {
-    "available": false,
+    "available": true,
     "alert": true,
     "message": {
       "title": "BRT Rio informa",
