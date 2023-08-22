@@ -3,8 +3,8 @@
     "available": true,
     "alert": true,
     "message": {
-      "title": "BRT Rio informa",
-      "text": "Até o momento todas as linhas operam normalmente.",
+      "title": "",
+      "text": "",
       "button_yes": "Fechar"
     }
   },
