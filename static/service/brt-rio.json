@@ -1,10 +1,10 @@
 {
   "home": {
     "available": true,
-    "alert": true,
+    "alert": false,
     "message": {
-      "title": "Alerta",
-      "text": "O App precisa ser atualizado para correção de bugs",
+      "title": "",
+      "text": "",
       "button_yes": "Fechar"
     }
   },
