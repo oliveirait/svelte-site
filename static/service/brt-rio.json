@@ -3,8 +3,8 @@
     "available": true,
     "alert": true,
     "message": {
-      "title": "",
-      "text": "",
+      "title": "Alerta",
+      "text": "O App precisa ser atualizado para correção de bugs",
       "button_yes": "Fechar"
     }
   },
