@@ -1,14 +1,13 @@
 {
   "home": {
-    "available": true,
-    "alert": false,
+    "available": false,
+    "alert": true,
     "message": {
-      "title": "",
-      "text": "",
+      "title": "BRT Rio informa",
+      "text": "Até o momento todas as linhas operam normalmente.",
       "button_yes": "Fechar"
     }
   },
-  
   "bus": {
     "alert": true,
     "message": {
@@ -17,7 +16,6 @@
       "button_yes": "Fechar"
     }
   },
-
   "webViewParams": {
     "injected": { 
       "headerElement": "#root > header", 
@@ -38,15 +36,5 @@
     "title": "Encontre",
     "subtitle": "Seu BRT",
     "link_playstore": "https://play.google.com/store/apps/details?id=com.oliveirafocs.localizarbrt"
-  },
-
-  "mobiRioPages": {
-    "achadoseperdidos": "https://mobi-rio.rio.br/achadoseperdidos/",
-    "header": "body > nav > div"
-  },
-
-  "oliveiraCodePages": {
-    "contato": "https://www.oliveiracode.online/contato",
-    "header": "body > div > nav > div"
   }
 }

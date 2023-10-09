@@ -10,9 +10,4 @@
             Para mais informacoes sobre projetos privados, <br>
             favor, entrar em contato
         </h1>
-
-
-        
-
-    
 </section>

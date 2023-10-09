@@ -24,9 +24,10 @@
                     </h1>
 
                     <p class="max-w-lg mt-6 text-gray-500 dark:text-gray-400">
-                        Sou Felipe, criador da Code Lab. Atraves dela, busco expressar uma das minhas atividades favoritas: 
-                        Criar e pensar em solucoes que facilitem nossa vida.
-                        Aqui na Oliveira Code Lab, somos apaixonados pelo que pelo que fazemos, comprometidos e sempre atentos ao mercado, estamos em constante evolução.
+                        Nosso compromisso na Oliveira Code Lab é criar soluções inovadoras, 
+                        permanecendo atentos ao mercado em constante evolução. 
+                        Estamos focados em facilitar a vida das pessoas por meio de nossa 
+                        paixão pelo desenvolvimento de software e inovação constante.
                     </p>
 
                     <div class="w-24 h-10 mt-8 rounded-lg bg-blue-500 items-center justify-center text-white flex hover:scale-110 ease-in transition ">
