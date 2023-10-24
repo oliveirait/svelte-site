@@ -46,5 +46,14 @@
   "oliveiraCodePages": {
     "contato": "https://www.oliveiracode.online/contato",
     "header": "body > div > nav > div"
+  },
+
+  "privacyPolicy": {
+    "privacy_policy": "https://www.oliveiracode.online/politica-de-privacidade-brt-rio.html"
+  },
+
+  "twitterMobi": {
+    "twitterMobiHref": "https://twitter.com/BRTMobiRio?ref_src=twsrc%5Etfw",
+    "twitterMobiSrc":  "https://platform.twitter.com/widgets.js"
   }
 }
