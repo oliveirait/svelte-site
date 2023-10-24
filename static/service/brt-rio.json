@@ -1,11 +1,11 @@
 {
   "home": {
     "available": true,
-    "alert": true,
+    "alert": false,
     "message": {
       "title": "MOBI RIO INFORMA",
       "text": "A #MobiRio informa que mediante a interrupção das linhas que operam no corredor Transoeste, devido a questões de segurança, a opção para os passageiros que precisam ir para Sta Cruz e Cpo Grande é utilizar as linhas dos corredores Transolímpica e Transcarioca mais (+)",
-      "button_yes": "Fechar"
+      "button_yes": "OK"
     }
   },
   "bus": {
