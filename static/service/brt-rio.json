@@ -1,7 +1,7 @@
 {
   "home": {
     "available": true,
-    "alert": true,
+    "alert": false,
     "message": {
       "title": "MOBI RIO INFORMA",
       "text": "A #MobiRio informa que a estação Pedro Correa, no corredor Transcarioca, está reaberta e operando normalmente. A estação estava fechada devido a falta de energia na região.",
