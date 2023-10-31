@@ -55,5 +55,14 @@
   "twitterMobi": {
     "twitterMobiHref": "https://www.oliveiracode.online/twitter-embeded.html",
     "twitterMobiSrc":  "https://platform.twitter.com/widgets.js"
+  },
+  "routes": {
+    "achadoseperdidos": "https://mobi-rio.rio.br/achadoseperdidos/",
+    "contato": "https://www.oliveiracode.online/contato",
+    "politica_de_privacidade": "https://www.oliveiracode.online/politica-de-privacidade-brt-rio.html",
+    "link_app_playstore": "https://play.google.com/store/apps/details?id=com.oliveirafocs.localizarbrt",
+    "posts": "https://www.oliveiracode.online/service/posts.json",
+    "estacoes": "https://www.oliveiracode.online/stations.json",
+    "config": "https://www.oliveiracode.online/service/brt-rio.json"
   }
 }
