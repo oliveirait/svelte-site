@@ -1,0 +1,20 @@
+ [
+  {
+    id: "3",
+    title: "OPERAÇÃO ESPECIAL BIENAL DO LIVRO",
+    subtitle: "MOBI-Rio monta esquema com linha especial nos fins de semana e feriado",
+    content: "A Prefeitura do Rio, por meio da MOBI-Rio, montou uma operação especial para levar o público de BRT para a Bienal do Livro 2023"
+  },
+  {
+    id: "2",
+    title: "OPERAÇÃO ESPECIAL BIENAL DO LIVRO",
+    subtitle: "MOBI-Rio monta esquema com linha especial nos fins de semana e feriado",
+    content: "A Prefeitura do Rio, por meio da MOBI-Rio, montou uma operação especial para levar o público de BRT para a Bienal do Livro 2023"
+  }, 
+  {
+    id: "1",
+    title: "INÍCIO DA RENOVAÇÃO DA FROTA DO BRT COMPLETA SEIS MESES",
+    subtitle: "Requalificação do sistema reflete no aumento de passageiros: já são cerca de 80 mil a mais desde dezembro",
+    content: "Há exatos seis meses, o Rio de Janeiro contava com um colorido especial nas pistas exclusivas do BRT. "
+  }
+]
