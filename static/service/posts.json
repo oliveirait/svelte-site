@@ -1,5 +1,12 @@
 [  
   {
+    "id": "5",
+    "title": "MOBI RIO INFORMA",
+    "subtitle": "A #MobiRio informa que a estação Pedro Correa, no corredor Transcarioca, está reaberta e operando normalmente. A estação estava fechada devido a falta de energia na região.",
+    "content": "",
+    "dateAt": "31/10/2023"
+  },
+  {
     "id": "4",
     "title": "TEMPERATURA NA CIDADE",
     "subtitle": "Terça (31/10) será de calor, mas previsão é de pancadas de chuva, ventos fortes e raios | Semana será chuvosa",
@@ -14,3 +21,4 @@
     "dateAt": "30/10/2023"
   }
 ]
+
