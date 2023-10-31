@@ -64,5 +64,11 @@
     "posts": "https://www.oliveiracode.online/service/posts.json",
     "estacoes": "https://www.oliveiracode.online/stations.json",
     "config": "https://www.oliveiracode.online/service/brt-rio.json"
-  }
+  },
+
+  "imageBackground": [
+    "https://i0.wp.com/onibusetransporte.com/wp-content/uploads/2022/09/20220922141517_IMG_3295-scaled.jpg",
+    "https://i0.wp.com/diariodotransporte.com.br/wp-content/uploads/2023/01/WhatsApp-Image-2023-01-06-at-14.13.54-e1673027025902.jpeg?fit=800%2C534&ssl=1",
+    "https://www.lukasgameplays.com.br/wp-content/uploads/2023/09/Captura-de-Tela-10725-696x392.jpg"
+  ]
 }
