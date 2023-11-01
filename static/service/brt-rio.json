@@ -4,7 +4,9 @@
     "alert": true,
     "message": {
       "title": "MOBI RIO INFORMA",
-      "text": "A estação Pedro Correa, no corredor Transcarioca, está reaberta e operando normalmente. A estação estava fechada devido a falta de energia na região.",
+      "text": "A #Mobirio informa que a estação CTEx, no corredor Transoeste estará fechada a partir desta quarta (01/11), devido a obras de substituição do piso da pista exclusiva sob responsabilidade da SMI.
+
+A opção de embarque e desembarque mais próxima é a estação de Ilha de Guaratiba.",
       "button_yes": "OK"
     }
   },
