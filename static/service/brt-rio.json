@@ -72,5 +72,8 @@
     "https://www.lukasgameplays.com.br/wp-content/uploads/2023/09/Captura-de-Tela-10725-696x392.jpg"
   ],
 
-  "newsAlerts": true
+  "newsAlerts": {
+    "newsAlerts": true,
+    "qtde": 2
+  }
 }
