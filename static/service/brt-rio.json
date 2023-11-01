@@ -1,7 +1,7 @@
 {
   "home": {
     "available": true,
-    "alert": true,
+    "alert": false,
     "message": {
       "title": "MOBI RIO INFORMA",
       "text": "A #Mobirio informa que a estação CTEx, no corredor Transoeste estará fechada a partir desta quarta (01/11), devido a obras de substituição do piso da pista exclusiva sob responsabilidade da SMI. A opção de embarque e desembarque mais próxima é a estação de Ilha de Guaratiba.",
@@ -72,5 +72,5 @@
     "https://www.lukasgameplays.com.br/wp-content/uploads/2023/09/Captura-de-Tela-10725-696x392.jpg"
   ],
 
-  "newsAlerts": false
+  "newsAlerts": true
 }
