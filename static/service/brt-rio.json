@@ -73,7 +73,7 @@
   ],
 
   "newsAlerts": {
-    "newsAlerts": true,
+    "active": true,
     "qtde": 2
   }
 }
