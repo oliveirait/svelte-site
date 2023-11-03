@@ -75,5 +75,15 @@
   "newsAlerts": {
     "active": true,
     "qtde": 2
+  },
+
+  "openW": {
+    "open": "56e018dea2846cb0711ee582006cef81"
+  },
+
+  "cityInfo": {
+    "title": "ESTAGIO DA CIDADE",
+    "description": "NORMALIDADE",
+    "color": "green.600"
   }
 }
