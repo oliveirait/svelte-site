@@ -89,7 +89,7 @@
   },
 
   "brtStageInfo": {
-    "title": "Estagio de Transporte",
+    "title": "BRT",
     "description": "NORMAL",
     "context": "",
     "color": "green.600"
