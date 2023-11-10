@@ -82,9 +82,16 @@
   },
 
   "cityInfo": {
-    "title": "Estagio da cidade",
+    "title": "Estágio da cidade",
     "description": "NORMALIDADE",
     "context": "Não há ocorrências que provoquem alteração significativa no dia a dia do carioca. Não foram identificados fatores de risco de curto prazo que impactem a rotina da cidade.",
+    "color": "green.600"
+  },
+
+  "brtStageInfo": {
+    "title": "Estagio de Transporte",
+    "description": "NORMAL",
+    "context": "",
     "color": "green.600"
   },
 
