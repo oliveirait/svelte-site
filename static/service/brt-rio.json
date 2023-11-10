@@ -90,9 +90,9 @@
 
   "brtStageInfo": {
     "title": "BRT",
-    "description": "IRREGULAR",
+    "description": "NORMAL",
     "context": "",
-    "color": "red.600"
+    "color": "green.600"
   },
 
   "horizontalListHome": [
