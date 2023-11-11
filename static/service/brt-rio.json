@@ -116,15 +116,6 @@
     },
 
     {
-      "id": "5",
-      "title": "BRT RIO TESTE",
-      "description": "ALERTA",
-      "context": "Sem alterações no momento",
-      "color": "yellow.600",
-      "type": "alert"
-    },
-
-    {
       "id": "3",
       "title": "Funcionamento dos serviços do BRT no fim de semana",
       "description": "",
