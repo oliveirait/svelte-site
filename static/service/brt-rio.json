@@ -97,31 +97,6 @@
   },
 
   "horizontalListHome": [
-    {
-      "id": "1",
-      "title": "ESTAGIO DA CIDADE",
-      "description": "PERIGOSA",
-      "context": "Não há ocorrências que provoquem alteração significativa no dia a dia do carioca. Não foram identificados fatores de risco de curto prazo que impactem a rotina da cidade.",
-      "color": "green.600",
-      "type": "alert"
-    },
-
-    {
-      "id": "2",
-      "title": "BRT",
-      "description": "NORMAL",
-      "context": "Sem alterações",
-      "color": "green.600",
-      "type": "alert"
-    },
-
-    {
-      "id": "3",
-      "title": "Funcionamento dos serviços do BRT no fim de semana",
-      "description": "",
-      "context": "https://twitter.com/BRTMobiRio/status/1720516192631423095",
-      "color": "blue.900",
-      "type": "link"
-    }
+   
   ]
 }
