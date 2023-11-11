@@ -57,6 +57,7 @@
     "twitterMobiSrc":  "https://platform.twitter.com/widgets.js"
   },
   "routes": {
+    "mobi_rio_site_link": "https://mobilidade.rio",
     "achadoseperdidos": "https://mobi-rio.rio.br/achadoseperdidos/",
     "contato": "https://www.oliveiracode.online/contato",
     "politica_de_privacidade": "https://www.oliveiracode.online/politica-de-privacidade-brt-rio.html",
