@@ -48,9 +48,7 @@
     "header": "body > div > nav > div"
   },
 
-  "privacyPolicy": {
-    "privacy_policy": "https://www.oliveiracode.online/politica-de-privacidade-brt-rio.html"
-  },
+   "privacyPolicy": "https://www.oliveiracode.online/politica-de-privacidade-brt-rio.html",
 
   "twitterMobi": {
     "twitterMobiHref": "https://www.oliveiracode.online/twitter-embeded.html",
@@ -78,9 +76,7 @@
     "qtde": 2
   },
 
-  "openW": {
-    "open": "56e018dea2846cb0711ee582006cef81"
-  },
+  "openW": "56e018dea2846cb0711ee582006cef81",
 
   "cityInfo": {
     "title": "Estágio da cidade",
