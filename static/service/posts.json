@@ -4,7 +4,8 @@
     "title": "MOBI RIO INFORMA",
     "subtitle": "A #Mobirio informa que a estação CTEx, no corredor Transoeste estará fechada a partir desta quarta (01/11), devido a obras de substituição do piso da pista exclusiva sob responsabilidade da SMI. A opção de embarque e desembarque mais próxima é a estação de Ilha de Guaratiba.",
     "content": "",
-    "dateAt": "01/11/2023"
+    "dateAt": "01/11/2023",
+    "url": "https://www.google.com"
   },
 
   {
@@ -12,6 +13,7 @@
     "title": "TEMPERATURA NA CIDADE",
     "subtitle": "Terça (31/10) será de calor, mas previsão é de pancadas de chuva, ventos fortes e raios | Semana será chuvosa",
     "content": "Segundo o Alerta Rio, as condições do tempo nesta terça-feira (31/10) na cidade do Rio serão influenciadas por áreas de instabilidade, geradas pela atuação de um sistema de baixa pressão no oceano. Com isso, o céu estará passando de parcialmente nublado a nublado ao longo do dia e há previsão de pancadas de chuva moderada a forte a partir da tarde, acompanhadas de raios e rajadas de vento moderado a forte (até 76 km/h). As temperaturas estarão estáveis, com mínima de 22°C e máxima de 37°C.",
-    "dateAt": "31/10/2023"
+    "dateAt": "31/10/2023",
+    "url": "https://www.google.com"
   }
 ]
