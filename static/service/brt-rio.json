@@ -34,7 +34,8 @@
 
   "portal": {
     "title": "Encontre",
-    "subtitle": "Seu BRT"
+    "subtitle": "Seu BRT",
+    "link_playstore": "https://play.google.com/store/apps/details?id=com.oliveirafocs.localizarbrt"
   },
 
   "mobiRioPages": {
