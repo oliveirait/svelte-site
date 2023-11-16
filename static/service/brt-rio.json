@@ -4,7 +4,7 @@
     "alert": false,
     "message": {
       "title": "PROBLEMAS TÉCNICOS",
-      "text": "Devido a problemas técnicos, os horários dos ônibus não estao disponíveis no momento, pedimos desculpa pelo transtorno. Estamos trabalhando para que o serviço volte o quanto antes.",
+      "text": "Informamos que os horários dos ônibus não estao disponíveis no momento, desculpe-nos pelo transtorno.",
       "button_yes": "OK"
     }
   },
