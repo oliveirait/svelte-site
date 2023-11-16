@@ -3,8 +3,8 @@
     "available": true,
     "alert": false,
     "message": {
-      "title": "ATUALIZE SEU APP",
-      "text": "Atualização disponível! É necessário atualizar seu aplicativo para correção de problemas!",
+      "title": "PROBLEMAS TÉCNICOS",
+      "text": "Devido a problemas técnicos, os horários dos ônibus não estao disponíveis no momento, pedimos desculpa pelo transtorno. Estamos trabalhando para que o serviço volte o quanto antes.",
       "button_yes": "OK"
     }
   },
@@ -34,8 +34,7 @@
 
   "portal": {
     "title": "Encontre",
-    "subtitle": "Seu BRT",
-    "link_playstore": "https://play.google.com/store/apps/details?id=com.oliveirafocs.localizarbrt"
+    "subtitle": "Seu BRT"
   },
 
   "mobiRioPages": {
