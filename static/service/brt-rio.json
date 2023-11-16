@@ -4,7 +4,7 @@
     "alert": true,
     "message": {
       "title": "PROBLEMAS TÉCNICOS",
-      "text": "Informamos que os horários dos ônibus não estao disponíveis, desculpe-nos pelo transtorno.",
+      "text": "Informamos que os horários dos ônibus não estão disponíveis, desculpe-nos pelo transtorno.",
       "button_yes": "OK"
     }
   },
