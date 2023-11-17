@@ -1,7 +1,7 @@
 {
   "home": {
     "available": true,
-    "alert": false,
+    "alert": true,
     "message": {
       "title": "PROBLEMAS TÉCNICOS",
       "text": "Informamos que os horários dos ônibus não estão disponíveis, desculpe-nos pelo transtorno.",
@@ -119,17 +119,8 @@
       "context": "https://twitter.com/BRTMobiRio/status/1720516192631423095",
       "color": "blue.900",
       "type": "link"
-    },
-
-    {
-      "id": "4",
-      "title": "Funcionamento dos serviços do BRT no fim de semana",
-      "description": "",
-      "context": "https://twitter.com/BRTMobiRio/status/1720516192631423095",
-      "color": "blue.900",
-      "type": "link"
     }
   ],
 
-  "showRateApp": false
+  "showRateApp": true
 }
