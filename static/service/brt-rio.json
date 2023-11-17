@@ -80,8 +80,8 @@
   "openW": "56e018dea2846cb0711ee582006cef81",
 
   "cityInfo": {
-    "title": "Estágio da cidade",
-    "description": "NORMALIDADE",
+    "title": "CIDADE EM",
+    "description": "ESTÁGIO 1",
     "context": "Não há ocorrências que provoquem alteração significativa no dia a dia do carioca. Não foram identificados fatores de risco de curto prazo que impactem a rotina da cidade.",
     "color": "green.600"
   },
@@ -113,13 +113,23 @@
     },
 
     {
-      "id": "3",
-      "title": "Funcionamento dos serviços do BRT no fim de semana",
+      "id": "4",
+      "title": "Estação Vila Militar está reaberta e com os serviços operando normalmente.",
       "description": "",
-      "context": "https://twitter.com/BRTMobiRio/status/1720516192631423095",
+      "context": "https://twitter.com/BRTMobiRio/status/1725543007548551329",
       "color": "blue.900",
       "type": "link"
     }
+
+    {
+      "id": "3",
+      "title": "Obras fecham temporariamente estação Glaúcio Gil",
+      "description": "",
+      "context": "https://mobilidaderio.com.br/obras-fecham-temporariamente-estacao-glaucio-gil/",
+      "color": "blue.900",
+      "type": "link"
+    }
+
   ],
 
   "showRateApp": true
