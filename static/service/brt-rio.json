@@ -97,7 +97,7 @@
     {
       "id": "1",
       "title": "ESTAGIO DA CIDADE",
-      "description": "NORMALIDADE",
+      "description": "ESTÁGIO 1",
       "context": "Não há ocorrências que provoquem alteração significativa no dia a dia do carioca. Não foram identificados fatores de risco de curto prazo que impactem a rotina da cidade.",
       "color": "green.600",
       "type": "alert"
@@ -119,7 +119,7 @@
       "context": "https://twitter.com/BRTMobiRio/status/1725543007548551329",
       "color": "blue.900",
       "type": "link"
-    }
+    },
 
     {
       "id": "3",
