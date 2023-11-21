@@ -1,5 +1,9 @@
 [
-  { "estacao": "Terminal Deodoro", "cod": "TLDEO", "icon": "hearto"},
+  { 
+    "cod": "TLDEO", 
+    "estacao": "Terminal Deodoro",
+    "icon": "hearto"
+  },
   { "estacao": "Terminal Recreio", "cod": "TLREC", "icon": "hearto"},
   { "estacao": "Catedral do Recreio", "cod": "TLCAT", "icon": "hearto"},
   { "estacao": "Tapebuias", "cod": "TLTAP", "icon": "hearto"},
