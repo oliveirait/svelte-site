@@ -111,8 +111,7 @@
         "51 - Recreio x Deodoro - PARADOR",
         "52 - Alvorada x Deodoro - PARADOR"
      ],
-     "fechada":true,
-     "icon":"hearto"
+     "fechada":true
   },
 
   {
@@ -123,8 +122,7 @@
         "51 - Recreio x Deodoro - PARADOR",
         "52 - Alvorada x Deodoro - PARADOR"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
   {
      "_id":"c16ba178-06e7-4a1a-b277-08da960f0682",
@@ -133,8 +131,7 @@
      "linhas":[
         "51 - Recreio x Deodoro - PARADOR"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
   {
      "_id":"d6e91aec-4ec2-424e-b1b6-d0d30f84153f",
@@ -144,8 +141,7 @@
         "51 - Recreio x Deodoro - PARADOR",
         "52 - Alvorada x Deodoro - PARADOR"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
   {
      "_id":"c3b9aea7-ce53-44f1-b216-c271cde535ba",
@@ -155,8 +151,7 @@
         "51 - Recreio x Deodoro - PARADOR",
         "52 - Alvorada x Deodoro - PARADOR"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
   {
      "_id":"98b81350-39ad-4bae-919a-6b1974ef322b",
@@ -165,8 +160,7 @@
      "linhas":[
         "51 - Recreio x Deodoro - PARADOR"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
   {
      "_id":"4875aa90-7473-40d1-b3c7-4c5d02f6d16f",
@@ -176,8 +170,7 @@
         "51 - Recreio x Deodoro - PARADOR",
         "52 - Alvorada x Deodoro - PARADOR"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
   {
      "_id":"2c0b9196-76a4-46d0-b22d-6564d5159ab5",
@@ -187,8 +180,7 @@
         "51 - Recreio x Deodoro - PARADOR",
         "52 - Alvorada x Deodoro - PARADOR"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
   {
      "_id":"b3acb00a-aa8e-4b44-b09e-9f3ae85cc8ee",
@@ -198,8 +190,7 @@
         "51 - Recreio x Deodoro - PARADOR",
         "52 - Alvorada x Deodoro - PARADOR"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
   {
      "_id":"3476637d-618f-4d31-bba8-4e717638e852",
@@ -210,8 +201,7 @@
         "52 - Alvorada x Deodoro - PARADOR",
         "53 - Alvorada x Terminal Sulacap - EXPRESSO"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
   {
      "_id":"c931e9cc-9727-42cc-9f51-e9b21dd7b025",
@@ -222,8 +212,7 @@
         "51 - Recreio x Deodoro - PARADOR",
         "52 - Alvorada x Deodoro - PARADOR"
      ],
-     "fechada":true,
-     "icon":"hearto"
+     "fechada":true
   },
   {
      "_id":"d2cb6f82-70a7-4895-9eed-87a9be9aa0c2",
@@ -236,8 +225,7 @@
         "52 - Alvorada x Deodoro - PARADOR",
         "53 - Alvorada x Terminal Sulacap - EXPRESSO"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
   {
      "_id":"cf0c133e-8ff0-4626-828d-f8248a62b70c",
@@ -246,8 +234,7 @@
      "linhas":[
         "51 - Recreio x Deodoro - PARADOR"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
   {
      "_id":"15b8bb3b-2f04-4f8d-b0af-dcd261f886c7",
@@ -257,8 +244,7 @@
         "51 - Recreio x Deodoro - PARADOR",
         "52 - Alvorada x Deodoro - PARADOR"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
   {
      "_id":"7187ca93-327d-4db3-81d3-197140af5e78",
@@ -268,8 +254,7 @@
         "50 - Jardim Oceânico x Terminal Centro Olímpico - PARADOR",
         "52 - Alvorada x Deodoro - PARADOR"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
 
   {
@@ -279,8 +264,7 @@
      "linhas":[
         "51 - Recreio x Deodoro - PARADOR"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
   {
      "_id":"52257a0f-cd1a-440f-96ac-bea5ba926648",
@@ -289,8 +273,7 @@
      "linhas":[
         "51 - Recreio x Deodoro - PARADOR"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
   {
      "_id":"bc8e0a29-2527-48d5-b5bb-93b3ceecfe82",
@@ -299,8 +282,7 @@
      "linhas":[
         "50 - Jardim Oceânico x Terminal Centro Olímpico - PARADOR"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
 
   {
@@ -310,8 +292,7 @@
      "linhas":[
         "53 - Alvorada x Terminal Sulacap - EXPRESSO"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
   {
      "_id":"0a87c8d8-79bf-46bc-b4fb-a9cabaa4994e",
@@ -321,8 +302,7 @@
         "51 - Recreio x Deodoro - PARADOR",
         "52 - Alvorada x Deodoro - PARADOR"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
   {
      "_id":"6837f84f-03e2-456b-9f14-5c40696e9e3f",
@@ -332,8 +312,7 @@
         "51 - Recreio x Deodoro - PARADOR",
         "52 - Alvorada x Deodoro - PARADOR"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
 
   {
@@ -346,8 +325,7 @@
         "38 - Alvorada x Galeão Tom Jobim - PARADOR",
         "52 - Alvorada x Deodoro - PARADOR"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
   {
      "_id":"a7fd385a-df56-4ba8-9d62-7dfa36dfaf74",
@@ -357,8 +335,7 @@
         "35 - Alvorada x Terminal Paulo da Portela - PARADOR",
         "38 - Alvorada x Galeão Tom Jobim - PARADOR"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
   {
      "_id":"2abac950-3892-4f64-8664-04615feeff6a",
@@ -368,8 +345,7 @@
         "35 - Alvorada x Terminal Paulo da Portela - PARADOR",
         "38 - Alvorada x Galeão Tom Jobim - PARADOR"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
   {
      "_id":"60532823-c26b-4877-b63e-a6543136c7f1",
@@ -379,8 +355,7 @@
         "35 - Alvorada x Terminal Paulo da Portela - PARADOR",
         "38 - Alvorada x Galeão Tom Jobim - PARADOR"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
   {
      "_id":"cc867233-d3bb-4dc6-a979-b4a5d27ab4c9",
@@ -392,8 +367,7 @@
         "46 - Alvorada x Penha 2 - EXPRESSO",
         "43 - Santa Efigênia x Terminal Fundão - EXPRESSO"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
   {
      "_id":"3338436d-808c-4d21-baba-da4dd9c53c69",
@@ -403,8 +377,7 @@
         "35 - Alvorada x Terminal Paulo da Portela - PARADOR",
         "38 - Alvorada x Galeão Tom Jobim - PARADOR"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
   {
      "_id":"7c0ed2ad-6bbd-4f31-bf3c-8614e7c6295e",
@@ -414,8 +387,7 @@
         "38 - Alvorada x Galeão Tom Jobim - PARADOR",
         "42 - Madureira x Galeão Tom Jobim - PARADOR"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
   {
      "_id":"8594ac86-92a6-4228-a049-82f2b6556b36",
@@ -427,8 +399,7 @@
         "38 - Alvorada x Galeão Tom Jobim - PARADOR",
         "52 - Alvorada x Deodoro - PARADOR"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
   {
      "_id":"234df847-6c9f-432e-bb96-b67f6d40107d",
@@ -440,8 +411,7 @@
         "40 - Alvorada x Terminal Paulo da Portela - EXPRESSO",
         "41 - Recreio x Terminal Paulo da Portela - EXPRESSO"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
   {
      "_id":"4c6fe917-2be9-4a74-a435-48f19b35f86d",
@@ -451,8 +421,7 @@
         "35 - Alvorada x Terminal Paulo da Portela - PARADOR",
         "38 - Alvorada x Galeão Tom Jobim - PARADOR"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
   {
      "_id":"7098a125-1ccf-4d92-9f69-f616225c86af",
@@ -462,8 +431,7 @@
         "38 - Alvorada x Galeão Tom Jobim - PARADOR",
         "42 - Madureira x Galeão Tom Jobim - PARADOR"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
   {
      "_id":"a1b8c2a6-6a54-4359-886f-f13fefd0e2d6",
@@ -473,8 +441,7 @@
         "38 - Alvorada x Galeão Tom Jobim - PARADOR",
         "42 - Madureira x Galeão Tom Jobim - PARADOR"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
   {
      "_id":"c8494187-cb37-4f0b-94e0-5d84509cab15",
@@ -484,8 +451,7 @@
         "38 - Alvorada x Galeão Tom Jobim - PARADOR",
         "42 - Madureira x Galeão Tom Jobim - PARADOR"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
   {
      "_id":"0ee32573-6eb3-4d03-8abe-1824cbbf59cd",
@@ -495,8 +461,7 @@
         "35 - Alvorada x Terminal Paulo da Portela - PARADOR",
         "38 - Alvorada x Galeão Tom Jobim - PARADOR"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
   {
      "_id":"06ffa2de-3954-46d8-a894-d97985664153",
@@ -508,8 +473,7 @@
         "38 - Alvorada x Galeão Tom Jobim - PARADOR",
         "52 - Alvorada x Deodoro - PARADOR"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
   {
      "_id":"fa17afaf-b82c-4fda-a76a-ca13627fec54",
@@ -522,8 +486,7 @@
         "46 - Alvorada x Penha 2 - EXPRESSO",
         "43 - Santa Efigênia x Terminal Fundão - EXPRESSO"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
   {
      "_id":"b5651a6a-3841-4040-8fc6-6f3e38088963",
@@ -533,8 +496,7 @@
         "38 - Alvorada x Galeão Tom Jobim - PARADOR",
         "42 - Madureira x Galeão Tom Jobim - PARADOR"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
   {
      "_id":"0b09aaa2-b12f-4010-abd4-c61d7a2e7979",
@@ -544,8 +506,7 @@
         "38 - Alvorada x Galeão Tom Jobim - PARADOR",
         "42 - Madureira x Galeão Tom Jobim - PARADOR"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
   {
      "_id":"ff5f4d21-3482-4ffa-a701-b19b417c777a",
@@ -557,8 +518,7 @@
         "46 - Alvorada x Penha 2 - EXPRESSO",
         "43 - Santa Efigênia x Terminal Fundão - EXPRESSO"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
   {
      "_id":"6fc69bd8-16d3-4ed9-a17b-c76752875331",
@@ -568,8 +528,7 @@
         "35 - Alvorada x Terminal Paulo da Portela - PARADOR",
         "38 - Alvorada x Galeão Tom Jobim - PARADOR"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
   {
      "_id":"fd5a84d9-5724-4e25-8f93-b10b528a7aee",
@@ -579,8 +538,7 @@
         "38 - Alvorada x Galeão Tom Jobim - PARADOR",
         "42 - Madureira x Galeão Tom Jobim - PARADOR"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
   {
      "_id":"2849bc21-5dd2-4a8f-8eb8-fcd4e91ae410",
@@ -590,8 +548,7 @@
         "38 - Alvorada x Galeão Tom Jobim - PARADOR",
         "42 - Madureira x Galeão Tom Jobim - PARADOR"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
   {
      "_id":"2caa6253-476f-40e8-b3d8-95a7dffb58dd",
@@ -601,8 +558,7 @@
         "38 - Alvorada x Galeão Tom Jobim - PARADOR",
         "42 - Madureira x Galeão Tom Jobim - PARADOR"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
   {
      "_id":"6e77854c-d084-4d39-acb7-fc7f42974c00",
@@ -612,8 +568,7 @@
         "35 - Alvorada x Terminal Paulo da Portela - PARADOR",
         "38 - Alvorada x Galeão Tom Jobim - PARADOR"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
   {
      "_id":"e5d18445-aac6-49b0-b893-7f562043b89a",
@@ -623,8 +578,7 @@
         "38 - Alvorada x Galeão Tom Jobim - PARADOR",
         "42 - Madureira x Galeão Tom Jobim - PARADOR"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
   {
      "_id":"bd62f5ae-5774-43d2-ac4c-55a1b7f3e78e",
@@ -633,8 +587,7 @@
      "linhas":[
         "43 - Santa Efigênia x Terminal Fundão - EXPRESSO"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
   {
      "_id":"6cba3b47-fd8a-402d-bb41-aaea4bacb107",
@@ -645,8 +598,7 @@
         "42 - Madureira x Galeão Tom Jobim - PARADOR",
         "46 - Alvorada x Penha 2 - EXPRESSO"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
   {
      "_id":"1fed1dba-1d32-4a52-9886-fd516ee6fad9",
@@ -656,8 +608,7 @@
         "35 - Alvorada x Terminal Paulo da Portela - PARADOR",
         "38 - Alvorada x Galeão Tom Jobim - PARADOR"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
   {
      "_id":"0b0161e9-c781-463c-9059-9bd2d2a12e2f",
@@ -667,8 +618,7 @@
         "35 - Alvorada x Terminal Paulo da Portela - PARADOR",
         "38 - Alvorada x Galeão Tom Jobim - PARADOR"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
   {
      "_id":"b74d464a-f06b-4214-9c77-2618a33bced6",
@@ -678,8 +628,7 @@
         "38 - Alvorada x Galeão Tom Jobim - PARADOR",
         "42 - Madureira x Galeão Tom Jobim - PARADOR"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
   {
      "_id":"aa9fd5c8-86fe-44fb-a03f-a886ac743115",
@@ -693,8 +642,7 @@
         "46 - Alvorada x Penha 2 - EXPRESSO",
         "43 - Santa Efigênia x Terminal Fundão - EXPRESSO"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
   {
      "_id":"835c2bae-a83c-4b00-b37d-ba6a5ba76b23",
@@ -704,8 +652,7 @@
         "35 - Alvorada x Terminal Paulo da Portela - PARADOR",
         "38 - Alvorada x Galeão Tom Jobim - PARADOR"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
   {
      "_id":"1ae8eedf-fd74-4317-a1dc-23cde66ce780",
@@ -717,8 +664,7 @@
         "38 - Alvorada x Galeão Tom Jobim - PARADOR",
         "52 - Alvorada x Deodoro - PARADOR"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
   {
      "_id":"576081aa-2775-48ab-9b35-a1c5d683206a",
@@ -733,8 +679,7 @@
         "52 - Alvorada x Deodoro - PARADOR",
         "53 - Alvorada x Terminal Sulacap - EXPRESSO"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
   {
      "_id":"bda6c3b4-17ab-471c-a1b5-29b928855e6d",
@@ -746,8 +691,7 @@
         "46 - Alvorada x Penha 2 - EXPRESSO",
         "43 - Santa Efigênia x Terminal Fundão - EXPRESSO"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
   {
      "_id":"643886b2-7336-425e-911f-bccb0f17e5d7",
@@ -758,8 +702,7 @@
         "42 - Madureira x Galeão Tom Jobim - PARADOR",
         "43 - Santa Efigênia x Terminal Fundão - EXPRESSO"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
   {
      "_id":"947cf0dc-c03e-4102-a5f9-f578b2532480",
@@ -773,8 +716,7 @@
         "46 - Alvorada x Penha 2 - EXPRESSO",
         "43 - Santa Efigênia x Terminal Fundão - EXPRESSO"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
   {
      "_id":"bf15a024-5008-4754-9685-2be7de0f135a",
@@ -788,8 +730,7 @@
         "46 - Alvorada x Penha 2 - EXPRESSO",
         "43 - Santa Efigênia x Terminal Fundão - EXPRESSO"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
   {
      "_id":"7669f0a5-edf6-4fc5-8be3-09bd22f058cb",
@@ -800,8 +741,7 @@
         "42 - Madureira x Galeão Tom Jobim - PARADOR",
         "43 - Santa Efigênia x Terminal Fundão - EXPRESSO"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
   {
      "_id":"db42c97d-0dc9-4bea-9d16-a53b11d39890",
@@ -812,8 +752,7 @@
         "40 - Alvorada x Terminal Paulo da Portela - EXPRESSO",
         "41 - Recreio x Terminal Paulo da Portela - EXPRESSO"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
   {
      "_id":"53388cbc-87ad-46cb-9205-8a6f4fe80261",
@@ -823,8 +762,7 @@
         "38 - Alvorada x Galeão Tom Jobim - PARADOR",
         "42 - Madureira x Galeão Tom Jobim - PARADOR"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
   {
      "_id":"8fe61b5e-8557-47de-a57b-578fa6cdfe22",
@@ -838,8 +776,7 @@
         "52 - Alvorada x Deodoro - PARADOR",
         "53 - Alvorada x Terminal Sulacap - EXPRESSO"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
   {
      "_id":"979748be-e87e-44cb-afb6-fa501f8f24ac",
@@ -852,8 +789,7 @@
         "46 - Alvorada x Penha 2 - EXPRESSO",
         "43 - Santa Efigênia x Terminal Fundão - EXPRESSO"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
   {
      "_id":"7344522d-cc3b-4765-aa0b-a8d27b6990ef",
@@ -863,8 +799,7 @@
         "38 - Alvorada x Galeão Tom Jobim - PARADOR",
         "42 - Madureira x Galeão Tom Jobim - PARADOR"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
   {
      "_id":"c8ec7b9d-015e-4fb4-b887-3b74edd609cf",
@@ -874,8 +809,7 @@
         "38 - Alvorada x Galeão Tom Jobim - PARADOR",
         "42 - Madureira x Galeão Tom Jobim - PARADOR"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
   {
      "_id":"ee86329e-cd45-407e-a773-8d2ba6553b6f",
@@ -885,8 +819,7 @@
         "35 - Alvorada x Terminal Paulo da Portela - PARADOR",
         "38 - Alvorada x Galeão Tom Jobim - PARADOR"
      ],
-     "fechada":false,
-     "icon":"hearto"
+     "fechada":false
   },
 
   
@@ -898,8 +831,7 @@
        "14 - Salvador Allende x Santa Eugênia - EXPRESSO",
        "17 - Santa Cruz x Campo Grande - PARADOR"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"23d24ec7-1071-4cb9-a624-ea506d27d405",
@@ -909,8 +841,7 @@
        "22 - Jardim Oceânico x Alvorada - PARADOR",
        "50 - Jardim Oceânico x Terminal Centro Olímpico - PARADOR"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"59fe4ae1-df1b-47dc-adef-7b098cdb24cb",
@@ -932,8 +863,7 @@
        "52 - Alvorada x Deodoro - PARADOR",
        "53 - Alvorada x Terminal Sulacap - EXPRESSO"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"efb3afd1-a223-4ed9-9bf1-8b331ff124bc",
@@ -945,8 +875,7 @@
        "18 - Jardim Oceânico x Recreio Shopping - EXPRESSO",
        "25A - Alvorada x Mato Alto - PARADOR"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"dddec323-088d-4995-8c8e-434bb655c835",
@@ -955,8 +884,7 @@
     "linhas":[
        "17 - Santa Cruz x Campo Grande - PARADOR"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"77cfffdf-9ae6-44df-a9a2-28c93899dc14",
@@ -967,8 +895,7 @@
        "50 - Jardim Oceânico x Terminal Centro Olímpico - PARADOR",
        "18 - Jardim Oceânico x Recreio Shopping - EXPRESSO"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"b347c197-94e8-4d32-a573-d17ead9416b2",
@@ -979,8 +906,7 @@
        "11N - Alvorada x Santa Cruz - PARADOR",
        "25A - Alvorada x Mato Alto - PARADOR"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"dbe11a02-c377-4b1b-97ed-d7c9e99d0cf3",
@@ -991,8 +917,7 @@
        "11N - Alvorada x Santa Cruz - PARADOR",
        "25A - Alvorada x Mato Alto - PARADOR"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"08a2a932-4139-4346-b1fa-a1c4fbec43f9",
@@ -1003,8 +928,7 @@
        "50 - Jardim Oceânico x Terminal Centro Olímpico - PARADOR",
        "18 - Jardim Oceânico x Recreio Shopping - EXPRESSO"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"9050ac26-1405-441a-81a8-3372d47a4b91",
@@ -1016,8 +940,7 @@
        "17 - Santa Cruz x Campo Grande - PARADOR",
        "20 - Salvador Allende x Santa Cruz - EXPRESSO"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"b4fa8071-e5f5-4940-bd21-4c8956e46363",
@@ -1026,8 +949,7 @@
     "linhas":[
        "17 - Santa Cruz x Campo Grande - PARADOR"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"4e8bd35f-2bf9-49dd-9732-223c7dd81f6e",
@@ -1036,8 +958,7 @@
     "linhas":[
        "17 - Santa Cruz x Campo Grande - PARADOR"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"2a5086e0-9198-40e9-b562-697788d31083",
@@ -1047,8 +968,7 @@
        "14 - Salvador Allende x Santa Eugênia - EXPRESSO",
        "17 - Santa Cruz x Campo Grande - PARADOR"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"afc56a70-9a7e-4e26-b0ee-532fc7d530ca",
@@ -1058,8 +978,7 @@
        "14 - Salvador Allende x Santa Eugênia - EXPRESSO",
        "17 - Santa Cruz x Campo Grande - PARADOR"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"befc9a36-6ed5-47a4-9e6e-b7db5b633d15",
@@ -1069,8 +988,7 @@
        "14 - Salvador Allende x Santa Eugênia - EXPRESSO",
        "17 - Santa Cruz x Campo Grande - PARADOR"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"39fbe78f-9026-44b1-a5dd-9289e5f6e7cf",
@@ -1080,8 +998,7 @@
        "14 - Salvador Allende x Santa Eugênia - EXPRESSO",
        "17 - Santa Cruz x Campo Grande - PARADOR"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"1c510823-700a-430c-a0ea-fda8126bbdfb",
@@ -1090,8 +1007,7 @@
     "linhas":[
        "17 - Santa Cruz x Campo Grande - PARADOR"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"2bb5fb87-a46a-4fe0-baad-3e215ac4e4c5",
@@ -1102,8 +1018,7 @@
        "11N - Alvorada x Santa Cruz - PARADOR",
        "25A - Alvorada x Mato Alto - PARADOR"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"c5c2e370-17f7-48b9-9496-259f9a658dfc",
@@ -1115,8 +1030,7 @@
        "14 - Salvador Allende x Santa Eugênia - EXPRESSO",
        "20 - Salvador Allende x Santa Cruz - EXPRESSO"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"2d4f68ff-3dba-4b0c-bdd4-3066d674406f",
@@ -1127,8 +1041,7 @@
        "11N - Alvorada x Santa Cruz - PARADOR",
        "25A - Alvorada x Mato Alto - PARADOR"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"a0fa7948-8193-48a9-8adc-58e894a36573",
@@ -1138,8 +1051,7 @@
        "10 - Alvorada x Santa Cruz - EXPRESSO",
        "11N - Alvorada x Santa Cruz - PARADOR"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"64049027-8264-4701-8803-72e58ebcd623",
@@ -1151,8 +1063,7 @@
        "17 - Santa Cruz x Campo Grande - PARADOR",
        "20 - Salvador Allende x Santa Cruz - EXPRESSO"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"d931bcd5-87e3-454b-b3de-976609e2ea37",
@@ -1163,8 +1074,7 @@
        "11N - Alvorada x Santa Cruz - PARADOR",
        "25A - Alvorada x Mato Alto - PARADOR"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"ae622896-71c7-45ca-87e1-3e29cf0cb1b3",
@@ -1176,8 +1086,7 @@
        "17 - Santa Cruz x Campo Grande - PARADOR",
        "20 - Salvador Allende x Santa Cruz - EXPRESSO"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"4298d0c9-5cb7-4f66-8ac3-80a548487437",
@@ -1189,8 +1098,7 @@
        "18 - Jardim Oceânico x Recreio Shopping - EXPRESSO",
        "25A - Alvorada x Mato Alto - PARADOR"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"6cf56117-1058-43c1-9bf4-d8ab80bfda52",
@@ -1207,8 +1115,7 @@
        "20 - Salvador Allende x Santa Cruz - EXPRESSO",
        "25A - Alvorada x Mato Alto - PARADOR"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"8a8c45ac-2ff8-4bde-862f-1aa69fd903b4",
@@ -1219,8 +1126,7 @@
        "11N - Alvorada x Santa Cruz - PARADOR",
        "25A - Alvorada x Mato Alto - PARADOR"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"8643ef4c-83af-44dc-a152-7b072542ab85",
@@ -1228,8 +1134,7 @@
     "linhas":[
        ""
     ],
-    "fechada":true,
-    "icon":"hearto"
+    "fechada":true
  },
  {
     "_id":"1e836e72-2b79-4208-9dfc-fca706a06097",
@@ -1240,8 +1145,7 @@
        "11N - Alvorada x Santa Cruz - PARADOR",
        "25A - Alvorada x Mato Alto - PARADOR"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"c26e93cf-0746-411b-b730-a7c61c3db767",
@@ -1252,8 +1156,7 @@
        "11N - Alvorada x Santa Cruz - PARADOR",
        "25A - Alvorada x Mato Alto - PARADOR"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"2f6190b3-f7c7-469b-b9fd-a97b08246fbf",
@@ -1262,8 +1165,7 @@
     "linhas":[
        "17 - Santa Cruz x Campo Grande - PARADOR"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"a64a15bf-d22f-4452-afed-1639dea6e637",
@@ -1275,8 +1177,7 @@
        "13 - Alvorada x Mato Alto - EXPRESSO",
        "25A - Alvorada x Mato Alto - PARADOR"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"94ad5a3b-1502-4e2d-9e7d-1be543cda26a",
@@ -1285,8 +1186,7 @@
     "linhas":[
        "17 - Santa Cruz x Campo Grande - PARADOR"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"b6226d32-aaaf-4cb6-ab33-43e904159664",
@@ -1297,8 +1197,7 @@
        "11N - Alvorada x Santa Cruz - PARADOR",
        "25A - Alvorada x Mato Alto - PARADOR"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"1408574e-cf1f-4447-ab1c-41531a8bcb9b",
@@ -1309,8 +1208,7 @@
        "50 - Jardim Oceânico x Terminal Centro Olímpico - PARADOR",
        "18 - Jardim Oceânico x Recreio Shopping - EXPRESSO"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"8235be6b-9663-4572-9f9d-2b280780111d",
@@ -1319,8 +1217,7 @@
     "linhas":[
        "17 - Santa Cruz x Campo Grande - PARADOR"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"ff264c89-acc6-49b1-99ba-cbe7c7995003",
@@ -1333,8 +1230,7 @@
        "19 - Salvador Allende x Pingo d'água - EXPRESSO",
        "20 - Salvador Allende x Santa Cruz - EXPRESSO"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"ed963851-bc30-45e7-94fa-51358c50fc85",
@@ -1349,8 +1245,7 @@
        "20 - Salvador Allende x Santa Cruz - EXPRESSO",
        "25A - Alvorada x Mato Alto - PARADOR"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"7d02d295-49d1-4140-b163-dedc46558004",
@@ -1362,8 +1257,7 @@
        "18 - Jardim Oceânico x Recreio Shopping - EXPRESSO",
        "25A - Alvorada x Mato Alto - PARADOR"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"a9c815ff-a15d-4c94-898c-ba337b5b69e2",
@@ -1375,8 +1269,7 @@
        "18 - Jardim Oceânico x Recreio Shopping - EXPRESSO",
        "25A - Alvorada x Mato Alto - PARADOR"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"25b2e20b-1919-4fb7-86db-7a9cf08995d2",
@@ -1388,8 +1281,7 @@
        "18 - Jardim Oceânico x Recreio Shopping - EXPRESSO",
        "25A - Alvorada x Mato Alto - PARADOR"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"52e6fe6b-3b02-40e5-86bd-a347e2ea7f2a",
@@ -1400,8 +1292,7 @@
        "50 - Jardim Oceânico x Terminal Centro Olímpico - PARADOR",
        "18 - Jardim Oceânico x Recreio Shopping - EXPRESSO"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"c5314efa-ddc5-4c78-975c-ec3af4d7863e",
@@ -1410,8 +1301,7 @@
     "linhas":[
        "17 - Santa Cruz x Campo Grande - PARADOR"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"798217ad-1c2d-41df-8f54-122db73d1153",
@@ -1420,8 +1310,7 @@
     "linhas":[
        "17 - Santa Cruz x Campo Grande - PARADOR"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"8545c1ff-114b-43e6-9c53-e484df4fea73",
@@ -1431,8 +1320,7 @@
        "22 - Jardim Oceânico x Alvorada - PARADOR",
        "50 - Jardim Oceânico x Terminal Centro Olímpico - PARADOR"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"aa92dde2-2641-4833-9c5d-b00cb6ce9065",
@@ -1443,8 +1331,7 @@
        "11N - Alvorada x Santa Cruz - PARADOR",
        "25A - Alvorada x Mato Alto - PARADOR"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"48e989dd-ae3d-412e-942b-f6750114dfbd",
@@ -1453,8 +1340,7 @@
     "linhas":[
        "17 - Santa Cruz x Campo Grande - PARADOR"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"799d8963-e166-4b82-b5d3-b5024c4d25ad",
@@ -1467,8 +1353,7 @@
        "19 - Salvador Allende x Pingo d'água - EXPRESSO",
        "20 - Salvador Allende x Santa Cruz - EXPRESSO"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"7cb9fcde-5127-4192-a125-35ba4b694d12",
@@ -1479,8 +1364,7 @@
        "11N - Alvorada x Santa Cruz - PARADOR",
        "25A - Alvorada x Mato Alto - PARADOR"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"857ded3c-2c7e-49c7-bb5a-d26a9391822f",
@@ -1491,8 +1375,7 @@
        "11N - Alvorada x Santa Cruz - PARADOR",
        "25A - Alvorada x Mato Alto - PARADOR"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"b8bd58c7-5f7f-4a40-bd7a-1cd11d295016",
@@ -1501,8 +1384,7 @@
     "linhas":[
        "17 - Santa Cruz x Campo Grande - PARADOR"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"711e5ed4-7943-4064-878d-9d9520b063d3",
@@ -1513,8 +1395,7 @@
        "11N - Alvorada x Santa Cruz - PARADOR",
        "25A - Alvorada x Mato Alto - PARADOR"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"053d2a62-cf90-4fc4-b362-f406a3659fc2",
@@ -1526,8 +1407,7 @@
        "51 - Recreio x Deodoro - PARADOR",
        "41 - Recreio x Terminal Paulo da Portela - EXPRESSO"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"76b1a033-aed1-479a-a3d7-b77cb4d60fd7",
@@ -1543,8 +1423,7 @@
        "20 - Salvador Allende x Santa Cruz - EXPRESSO",
        "25A - Alvorada x Mato Alto - PARADOR"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"15e92eac-d837-403b-a9d5-ce9189c399ca",
@@ -1554,8 +1433,7 @@
        "22 - Jardim Oceânico x Alvorada - PARADOR",
        "50 - Jardim Oceânico x Terminal Centro Olímpico - PARADOR"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"3f56437c-470e-459a-86f8-e7f1d4a193fb",
@@ -1566,8 +1444,7 @@
        "11N - Alvorada x Santa Cruz - PARADOR",
        "25A - Alvorada x Mato Alto - PARADOR"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"6859cabc-3e0d-446c-9ea1-53df9ea843ad",
@@ -1577,8 +1454,7 @@
        "22 - Jardim Oceânico x Alvorada - PARADOR",
        "50 - Jardim Oceânico x Terminal Centro Olímpico - PARADOR"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"5060f792-2ae4-4d0d-a901-46ef91455a31",
@@ -1595,8 +1471,7 @@
        "20 - Salvador Allende x Santa Cruz - EXPRESSO",
        "25A - Alvorada x Mato Alto - PARADOR"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"17ce6c6a-21e9-458f-aa32-5a1631ac5a3c",
@@ -1608,8 +1483,7 @@
        "17 - Santa Cruz x Campo Grande - PARADOR",
        "20 - Salvador Allende x Santa Cruz - EXPRESSO"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"e7f61319-7ab3-45a7-991b-b7c3a3b1ef50",
@@ -1619,8 +1493,7 @@
        "14 - Salvador Allende x Santa Eugênia - EXPRESSO",
        "17 - Santa Cruz x Campo Grande - PARADOR"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"bd795b34-cb40-493d-af3f-4272a91dde02",
@@ -1631,8 +1504,7 @@
        "11N - Alvorada x Santa Cruz - PARADOR",
        "25A - Alvorada x Mato Alto - PARADOR"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"314f7a87-7270-4275-9ca1-7c8943af1c7b",
@@ -1643,8 +1515,7 @@
        "11N - Alvorada x Santa Cruz - PARADOR",
        "20 - Salvador Allende x Santa Cruz - EXPRESSO"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"6f08447f-267a-4368-ab58-3159e58ef47c",
@@ -1653,8 +1524,7 @@
     "linhas":[
        "17 - Santa Cruz x Campo Grande - PARADOR"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"6a7cf482-a4a1-42b4-9288-acfdb6c8a2ae",
@@ -1664,8 +1534,7 @@
        "14 - Salvador Allende x Santa Eugênia - EXPRESSO",
        "17 - Santa Cruz x Campo Grande - PARADOR"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"bd5b8229-b667-486c-890d-c9bc667fe39e",
@@ -1676,8 +1545,7 @@
        "11N - Alvorada x Santa Cruz - PARADOR",
        "20 - Salvador Allende x Santa Cruz - EXPRESSO"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"385acf29-6de6-4070-b9b2-07b6b44fdba3",
@@ -1687,8 +1555,7 @@
        "14 - Salvador Allende x Santa Eugênia - EXPRESSO",
        "17 - Santa Cruz x Campo Grande - PARADOR"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  },
  {
     "_id":"7e814507-d922-45af-8f38-470c92c8ed86",
@@ -1697,8 +1564,7 @@
     "linhas":[
        "17 - Santa Cruz x Campo Grande - PARADOR"
     ],
-    "fechada":false,
-    "icon":"hearto"
+    "fechada":false
  }
  
 ]
