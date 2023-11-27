@@ -1,0 +1,1600 @@
+[
+  {
+     "_id":"6e0f4150-7093-483c-8eb4-00f9c18b861d",
+     "estacao":"Asa Branca",
+     "cod": "TLASA",
+     "linhas":[
+        "51 - Recreio x Deodoro - PARADOR",
+        "52 - Alvorada x Deodoro - PARADOR"
+     ],
+     "fechada":true,
+     "icon":"hearto"
+  },
+
+  {
+     "_id":"7fcb03eb-838b-49aa-a368-a61e357e32b7",
+     "estacao":"Boiúna",
+     "cod": "TLBOI",
+     "linhas":[
+        "51 - Recreio x Deodoro - PARADOR",
+        "52 - Alvorada x Deodoro - PARADOR"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+  {
+     "_id":"c16ba178-06e7-4a1a-b277-08da960f0682",
+     "estacao":"Catedral do Recreio",
+     "cod": "TLCAT",
+     "linhas":[
+        "51 - Recreio x Deodoro - PARADOR"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+  {
+     "_id":"d6e91aec-4ec2-424e-b1b6-d0d30f84153f",
+     "estacao":"Colônia",
+     "cod": "TLCOL",
+     "linhas":[
+        "51 - Recreio x Deodoro - PARADOR",
+        "52 - Alvorada x Deodoro - PARADOR"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+  {
+     "_id":"c3b9aea7-ce53-44f1-b216-c271cde535ba",
+     "estacao":"Deodoro",
+     "cod": "TLDEO", 
+     "linhas":[
+        "51 - Recreio x Deodoro - PARADOR",
+        "52 - Alvorada x Deodoro - PARADOR"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+  {
+     "_id":"98b81350-39ad-4bae-919a-6b1974ef322b",
+     "estacao":"Ilha Pura",
+     "cod": "TLILP",
+     "linhas":[
+        "51 - Recreio x Deodoro - PARADOR"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+  {
+     "_id":"4875aa90-7473-40d1-b3c7-4c5d02f6d16f",
+     "estacao":"João Cribbin",
+     "cod": "TLPJC",
+     "linhas":[
+        "51 - Recreio x Deodoro - PARADOR",
+        "52 - Alvorada x Deodoro - PARADOR"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+  {
+     "_id":"2c0b9196-76a4-46d0-b22d-6564d5159ab5",
+     "estacao":"Leila Diniz",
+     "cod": "TLLDI",
+     "linhas":[
+        "51 - Recreio x Deodoro - PARADOR",
+        "52 - Alvorada x Deodoro - PARADOR"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+  {
+     "_id":"b3acb00a-aa8e-4b44-b09e-9f3ae85cc8ee",
+     "estacao":"Magalhães Bastos",
+     "cod": "TOCMG",
+     "linhas":[
+        "51 - Recreio x Deodoro - PARADOR",
+        "52 - Alvorada x Deodoro - PARADOR"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+  {
+     "_id":"3476637d-618f-4d31-bba8-4e717638e852",
+     "estacao":"Marechal Fontenelle",
+     "cod": "TLMFE",
+     "linhas":[
+        "51 - Recreio x Deodoro - PARADOR",
+        "52 - Alvorada x Deodoro - PARADOR",
+        "53 - Alvorada x Terminal Sulacap - EXPRESSO"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+  {
+     "_id":"c931e9cc-9727-42cc-9f51-e9b21dd7b025",
+     "estacao":"Minha Praia",
+     "cod": "TLMIP",
+     "linhas":[
+        "50 - Jardim Oceânico x Terminal Centro Olímpico - PARADOR",
+        "51 - Recreio x Deodoro - PARADOR",
+        "52 - Alvorada x Deodoro - PARADOR"
+     ],
+     "fechada":true,
+     "icon":"hearto"
+  },
+  {
+     "_id":"d2cb6f82-70a7-4895-9eed-87a9be9aa0c2",
+     "estacao":"Morro do Outeiro",
+     "cod": "TLMOE",
+     "linhas":[
+        "50 - Jardim Oceânico x Terminal Centro Olímpico - PARADOR",
+        "51 - Recreio x Deodoro - PARADOR",
+        "41 - Recreio x Terminal Paulo da Portela - EXPRESSO",
+        "52 - Alvorada x Deodoro - PARADOR",
+        "53 - Alvorada x Terminal Sulacap - EXPRESSO"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+  {
+     "_id":"cf0c133e-8ff0-4626-828d-f8248a62b70c",
+     "estacao":"Olof Palme",
+     "cod": "TLOLO", 
+     "linhas":[
+        "51 - Recreio x Deodoro - PARADOR"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+  {
+     "_id":"15b8bb3b-2f04-4f8d-b0af-dcd261f886c7",
+     "estacao":"Outeiro Santo",
+     "cod": "TLOTS",
+     "linhas":[
+        "51 - Recreio x Deodoro - PARADOR",
+        "52 - Alvorada x Deodoro - PARADOR"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+  {
+     "_id":"7187ca93-327d-4db3-81d3-197140af5e78",
+     "estacao":"Parque Olímpico",
+     "cod": "TLPQO",
+     "linhas":[
+        "50 - Jardim Oceânico x Terminal Centro Olímpico - PARADOR",
+        "52 - Alvorada x Deodoro - PARADOR"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+
+  {
+     "_id":"0c5dd639-8db3-46b4-9723-a4b81489c5c0",
+     "estacao":"Riocentro",
+     "cod": "TLRIC",
+     "linhas":[
+        "51 - Recreio x Deodoro - PARADOR"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+  {
+     "_id":"52257a0f-cd1a-440f-96ac-bea5ba926648",
+     "estacao":"Tapebuias",
+     "cod": "TLTAP",
+     "linhas":[
+        "51 - Recreio x Deodoro - PARADOR"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+  {
+     "_id":"bc8e0a29-2527-48d5-b5bb-93b3ceecfe82",
+     "estacao":"Terminal Centro Olímpico",
+     "cod": "TLCEO",
+     "linhas":[
+        "50 - Jardim Oceânico x Terminal Centro Olímpico - PARADOR"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+
+  {
+     "_id":"719e6c0c-a5b2-4602-8f62-9507a633d70a",
+     "estacao":"Terminal Sulacap",
+     "cod": "TLSUL",
+     "linhas":[
+        "53 - Alvorada x Terminal Sulacap - EXPRESSO"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+  {
+     "_id":"0a87c8d8-79bf-46bc-b4fb-a9cabaa4994e",
+     "estacao":"Ventura",
+     "cod": "TLVEM",
+     "linhas":[
+        "51 - Recreio x Deodoro - PARADOR",
+        "52 - Alvorada x Deodoro - PARADOR"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+  {
+     "_id":"6837f84f-03e2-456b-9f14-5c40696e9e3f",
+     "estacao":"Vila Militar",
+     "cod": "TLVIL",
+     "linhas":[
+        "51 - Recreio x Deodoro - PARADOR",
+        "52 - Alvorada x Deodoro - PARADOR"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+
+  {
+     "_id":"7f6f8648-5d2f-4198-a757-d42a1919ad09",
+     "estacao":"Aeroporto Jacarepaguá",
+     "cod": "TCAJA",
+     "linhas":[
+        "50 - Jardim Oceânico x Terminal Centro Olímpico - PARADOR",
+        "35 - Alvorada x Terminal Paulo da Portela - PARADOR",
+        "38 - Alvorada x Galeão Tom Jobim - PARADOR",
+        "52 - Alvorada x Deodoro - PARADOR"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+  {
+     "_id":"a7fd385a-df56-4ba8-9d62-7dfa36dfaf74",
+     "estacao":"André Rocha",
+     "cod": "TCAND", 
+     "linhas":[
+        "35 - Alvorada x Terminal Paulo da Portela - PARADOR",
+        "38 - Alvorada x Galeão Tom Jobim - PARADOR"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+  {
+     "_id":"2abac950-3892-4f64-8664-04615feeff6a",
+     "estacao":"Aracy Cabral",
+     "cod": "TCACA",
+     "linhas":[
+        "35 - Alvorada x Terminal Paulo da Portela - PARADOR",
+        "38 - Alvorada x Galeão Tom Jobim - PARADOR"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+  {
+     "_id":"60532823-c26b-4877-b63e-a6543136c7f1",
+     "estacao":"Arroio Pavuna",
+     "cod": "TCAPA", 
+     "linhas":[
+        "35 - Alvorada x Terminal Paulo da Portela - PARADOR",
+        "38 - Alvorada x Galeão Tom Jobim - PARADOR"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+  {
+     "_id":"cc867233-d3bb-4dc6-a979-b4a5d27ab4c9",
+     "estacao":"Campinho",
+     "cod": "TCCAM",
+     "linhas":[
+        "35 - Alvorada x Terminal Paulo da Portela - PARADOR",
+        "38 - Alvorada x Galeão Tom Jobim - PARADOR",
+        "46 - Alvorada x Penha 2 - EXPRESSO",
+        "43 - Santa Efigênia x Terminal Fundão - EXPRESSO"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+  {
+     "_id":"3338436d-808c-4d21-baba-da4dd9c53c69",
+     "estacao":"Capitão Menezes",
+     "cod": "TCCAP",
+     "linhas":[
+        "35 - Alvorada x Terminal Paulo da Portela - PARADOR",
+        "38 - Alvorada x Galeão Tom Jobim - PARADOR"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+  {
+     "_id":"7c0ed2ad-6bbd-4f31-bf3c-8614e7c6295e",
+     "estacao":"Cardoso de Moraes",
+     "cod": "TCCMO",
+     "linhas":[
+        "38 - Alvorada x Galeão Tom Jobim - PARADOR",
+        "42 - Madureira x Galeão Tom Jobim - PARADOR"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+  {
+     "_id":"8594ac86-92a6-4228-a049-82f2b6556b36",
+     "estacao":"Centro Metropolitano",
+     "cod": "TCCME",
+     "linhas":[
+        "50 - Jardim Oceânico x Terminal Centro Olímpico - PARADOR",
+        "35 - Alvorada x Terminal Paulo da Portela - PARADOR",
+        "38 - Alvorada x Galeão Tom Jobim - PARADOR",
+        "52 - Alvorada x Deodoro - PARADOR"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+  {
+     "_id":"234df847-6c9f-432e-bb96-b67f6d40107d",
+     "estacao":"Curicica",
+     "cod": "TCCUR",
+     "linhas":[
+        "35 - Alvorada x Terminal Paulo da Portela - PARADOR",
+        "38 - Alvorada x Galeão Tom Jobim - PARADOR",
+        "40 - Alvorada x Terminal Paulo da Portela - EXPRESSO",
+        "41 - Recreio x Terminal Paulo da Portela - EXPRESSO"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+  {
+     "_id":"4c6fe917-2be9-4a74-a435-48f19b35f86d",
+     "estacao":"Divina Providência",
+     "cod": "TCDPR",
+     "linhas":[
+        "35 - Alvorada x Terminal Paulo da Portela - PARADOR",
+        "38 - Alvorada x Galeão Tom Jobim - PARADOR"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+  {
+     "_id":"7098a125-1ccf-4d92-9f69-f616225c86af",
+     "estacao":"Galeão Tom Jobim (Aeroporto)",
+     "cod": "TCTJ1",
+     "linhas":[
+        "38 - Alvorada x Galeão Tom Jobim - PARADOR",
+        "42 - Madureira x Galeão Tom Jobim - PARADOR"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+  {
+     "_id":"a1b8c2a6-6a54-4359-886f-f13fefd0e2d6",
+     "estacao":"Guaporé",
+     "cod": "TCGUA",
+     "linhas":[
+        "38 - Alvorada x Galeão Tom Jobim - PARADOR",
+        "42 - Madureira x Galeão Tom Jobim - PARADOR"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+  {
+     "_id":"c8494187-cb37-4f0b-94e0-5d84509cab15",
+     "estacao":"Ibiapina",
+     "cod": "TCIDI",
+     "linhas":[
+        "38 - Alvorada x Galeão Tom Jobim - PARADOR",
+        "42 - Madureira x Galeão Tom Jobim - PARADOR"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+  {
+     "_id":"0ee32573-6eb3-4d03-8abe-1824cbbf59cd",
+     "estacao":"Ipase",
+     "cod": "TCIPA",
+     "linhas":[
+        "35 - Alvorada x Terminal Paulo da Portela - PARADOR",
+        "38 - Alvorada x Galeão Tom Jobim - PARADOR"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+  {
+     "_id":"06ffa2de-3954-46d8-a894-d97985664153",
+     "estacao":"Lourenço Jorge",
+     "cod": "TCLJO",
+     "linhas":[
+        "50 - Jardim Oceânico x Terminal Centro Olímpico - PARADOR",
+        "35 - Alvorada x Terminal Paulo da Portela - PARADOR",
+        "38 - Alvorada x Galeão Tom Jobim - PARADOR",
+        "52 - Alvorada x Deodoro - PARADOR"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+  {
+     "_id":"fa17afaf-b82c-4fda-a76a-ca13627fec54",
+     "estacao":"Madureira / Manaceia",
+     "cod": "TCMAD", 
+     "linhas":[
+        "31 - Alvorada x Vicente de Carvalho - SEMIDIRETO",
+        "38 - Alvorada x Galeão Tom Jobim - PARADOR",
+        "42 - Madureira x Galeão Tom Jobim - PARADOR",
+        "46 - Alvorada x Penha 2 - EXPRESSO",
+        "43 - Santa Efigênia x Terminal Fundão - EXPRESSO"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+  {
+     "_id":"b5651a6a-3841-4040-8fc6-6f3e38088963",
+     "estacao":"Marambaia",
+     "cod": "TCMBA",
+     "linhas":[
+        "38 - Alvorada x Galeão Tom Jobim - PARADOR",
+        "42 - Madureira x Galeão Tom Jobim - PARADOR"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+  {
+     "_id":"0b09aaa2-b12f-4010-abd4-c61d7a2e7979",
+     "estacao":"Maré",
+     "cod": "TCMAR",
+     "linhas":[
+        "38 - Alvorada x Galeão Tom Jobim - PARADOR",
+        "42 - Madureira x Galeão Tom Jobim - PARADOR"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+  {
+     "_id":"ff5f4d21-3482-4ffa-a701-b19b417c777a",
+     "estacao":"Mercadão de Madureira",
+     "cod": "TCMCD",
+     "linhas":[
+        "38 - Alvorada x Galeão Tom Jobim - PARADOR",
+        "42 - Madureira x Galeão Tom Jobim - PARADOR",
+        "46 - Alvorada x Penha 2 - EXPRESSO",
+        "43 - Santa Efigênia x Terminal Fundão - EXPRESSO"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+  {
+     "_id":"6fc69bd8-16d3-4ed9-a17b-c76752875331",
+     "estacao":"Merck",
+     "cod": "TCMCK", 
+     "linhas":[
+        "35 - Alvorada x Terminal Paulo da Portela - PARADOR",
+        "38 - Alvorada x Galeão Tom Jobim - PARADOR"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+  {
+     "_id":"fd5a84d9-5724-4e25-8f93-b10b528a7aee",
+     "estacao":"Olaria",
+     "cod": "TCOCR",
+     "linhas":[
+        "38 - Alvorada x Galeão Tom Jobim - PARADOR",
+        "42 - Madureira x Galeão Tom Jobim - PARADOR"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+  {
+     "_id":"2849bc21-5dd2-4a8f-8eb8-fcd4e91ae410",
+     "estacao":"Otaviano",
+     "cod": "TCOTA",
+     "linhas":[
+        "38 - Alvorada x Galeão Tom Jobim - PARADOR",
+        "42 - Madureira x Galeão Tom Jobim - PARADOR"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+  {
+     "_id":"2caa6253-476f-40e8-b3d8-95a7dffb58dd",
+     "estacao":"Pastor José Santos",
+     "cod": "TCPJS",
+     "linhas":[
+        "38 - Alvorada x Galeão Tom Jobim - PARADOR",
+        "42 - Madureira x Galeão Tom Jobim - PARADOR"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+  {
+     "_id":"6e77854c-d084-4d39-acb7-fc7f42974c00",
+     "estacao":"Pedro Corrêa",
+     "cod": "TCPCO",
+     "linhas":[
+        "35 - Alvorada x Terminal Paulo da Portela - PARADOR",
+        "38 - Alvorada x Galeão Tom Jobim - PARADOR"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+  {
+     "_id":"e5d18445-aac6-49b0-b893-7f562043b89a",
+     "estacao":"Pedro Taques",
+     "cod": "PCPTA",
+     "linhas":[
+        "38 - Alvorada x Galeão Tom Jobim - PARADOR",
+        "42 - Madureira x Galeão Tom Jobim - PARADOR"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+  {
+     "_id":"bd62f5ae-5774-43d2-ac4c-55a1b7f3e78e",
+     "estacao":"Penha 1",
+     "cod": "TCPE1",
+     "linhas":[
+        "43 - Santa Efigênia x Terminal Fundão - EXPRESSO"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+  {
+     "_id":"6cba3b47-fd8a-402d-bb41-aaea4bacb107",
+     "estacao":"Penha 2",
+     "cod": "TCPE2",
+     "linhas":[
+        "38 - Alvorada x Galeão Tom Jobim - PARADOR",
+        "42 - Madureira x Galeão Tom Jobim - PARADOR",
+        "46 - Alvorada x Penha 2 - EXPRESSO"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+  {
+     "_id":"1fed1dba-1d32-4a52-9886-fd516ee6fad9",
+     "estacao":"Pinto Teles",
+     "cod": "PCPTE",
+     "linhas":[
+        "35 - Alvorada x Terminal Paulo da Portela - PARADOR",
+        "38 - Alvorada x Galeão Tom Jobim - PARADOR"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+  {
+     "_id":"0b0161e9-c781-463c-9059-9bd2d2a12e2f",
+     "estacao":"Praça Bandolim",
+     "cod": "TCPBA", 
+     "linhas":[
+        "35 - Alvorada x Terminal Paulo da Portela - PARADOR",
+        "38 - Alvorada x Galeão Tom Jobim - PARADOR"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+  {
+     "_id":"b74d464a-f06b-4214-9c77-2618a33bced6",
+     "estacao":"Praça do Carmo",
+     "cod": "TCPCA",
+     "linhas":[
+        "38 - Alvorada x Galeão Tom Jobim - PARADOR",
+        "42 - Madureira x Galeão Tom Jobim - PARADOR"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+  {
+     "_id":"aa9fd5c8-86fe-44fb-a03f-a886ac743115",
+     "estacao":"Praça Seca",
+     "cod": "TCPSC", 
+     "linhas":[
+        "35 - Alvorada x Terminal Paulo da Portela - PARADOR",
+        "38 - Alvorada x Galeão Tom Jobim - PARADOR",
+        "40 - Alvorada x Terminal Paulo da Portela - EXPRESSO",
+        "41 - Recreio x Terminal Paulo da Portela - EXPRESSO",
+        "46 - Alvorada x Penha 2 - EXPRESSO",
+        "43 - Santa Efigênia x Terminal Fundão - EXPRESSO"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+  {
+     "_id":"835c2bae-a83c-4b00-b37d-ba6a5ba76b23",
+     "estacao":"Recreio(Recanto) das Palmeiras",
+     "cod": "TCRPA",
+     "linhas":[
+        "35 - Alvorada x Terminal Paulo da Portela - PARADOR",
+        "38 - Alvorada x Galeão Tom Jobim - PARADOR"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+  {
+     "_id":"1ae8eedf-fd74-4317-a1dc-23cde66ce780",
+     "estacao":"Rede Sarah",
+     "cod": "TCHSA",
+     "linhas":[
+        "50 - Jardim Oceânico x Terminal Centro Olímpico - PARADOR",
+        "35 - Alvorada x Terminal Paulo da Portela - PARADOR",
+        "38 - Alvorada x Galeão Tom Jobim - PARADOR",
+        "52 - Alvorada x Deodoro - PARADOR"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+  {
+     "_id":"576081aa-2775-48ab-9b35-a1c5d683206a",
+     "estacao":"Rio 2",
+     "cod": "TCRJ2", 
+     "linhas":[
+        "50 - Jardim Oceânico x Terminal Centro Olímpico - PARADOR",
+        "35 - Alvorada x Terminal Paulo da Portela - PARADOR",
+        "38 - Alvorada x Galeão Tom Jobim - PARADOR",
+        "40 - Alvorada x Terminal Paulo da Portela - EXPRESSO",
+        "46 - Alvorada x Penha 2 - EXPRESSO",
+        "52 - Alvorada x Deodoro - PARADOR",
+        "53 - Alvorada x Terminal Sulacap - EXPRESSO"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+  {
+     "_id":"bda6c3b4-17ab-471c-a1b5-29b928855e6d",
+     "estacao":"Santa Efigênia",
+     "cod": "TCSEF",
+     "linhas":[
+        "40 - Alvorada x Terminal Paulo da Portela - EXPRESSO",
+        "41 - Recreio x Terminal Paulo da Portela - EXPRESSO",
+        "46 - Alvorada x Penha 2 - EXPRESSO",
+        "43 - Santa Efigênia x Terminal Fundão - EXPRESSO"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+  {
+     "_id":"643886b2-7336-425e-911f-bccb0f17e5d7",
+     "estacao":"Santa Luzia",
+     "cod": "TCSTL",
+     "linhas":[
+        "38 - Alvorada x Galeão Tom Jobim - PARADOR",
+        "42 - Madureira x Galeão Tom Jobim - PARADOR",
+        "43 - Santa Efigênia x Terminal Fundão - EXPRESSO"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+  {
+     "_id":"947cf0dc-c03e-4102-a5f9-f578b2532480",
+     "estacao":"Tanque",
+     "cod": "TCTQE", 
+     "linhas":[
+        "35 - Alvorada x Terminal Paulo da Portela - PARADOR",
+        "38 - Alvorada x Galeão Tom Jobim - PARADOR",
+        "40 - Alvorada x Terminal Paulo da Portela - EXPRESSO",
+        "41 - Recreio x Terminal Paulo da Portela - EXPRESSO",
+        "46 - Alvorada x Penha 2 - EXPRESSO",
+        "43 - Santa Efigênia x Terminal Fundão - EXPRESSO"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+  {
+     "_id":"bf15a024-5008-4754-9685-2be7de0f135a",
+     "estacao":"Taquara",
+     "cod": "TCTAQ",
+     "linhas":[
+        "35 - Alvorada x Terminal Paulo da Portela - PARADOR",
+        "38 - Alvorada x Galeão Tom Jobim - PARADOR",
+        "40 - Alvorada x Terminal Paulo da Portela - EXPRESSO",
+        "41 - Recreio x Terminal Paulo da Portela - EXPRESSO",
+        "46 - Alvorada x Penha 2 - EXPRESSO",
+        "43 - Santa Efigênia x Terminal Fundão - EXPRESSO"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+  {
+     "_id":"7669f0a5-edf6-4fc5-8be3-09bd22f058cb",
+     "estacao":"Terminal Fundão(Aroldo Melodia)",
+     "cod": "TCFAM",
+     "linhas":[
+        "38 - Alvorada x Galeão Tom Jobim - PARADOR",
+        "42 - Madureira x Galeão Tom Jobim - PARADOR",
+        "43 - Santa Efigênia x Terminal Fundão - EXPRESSO"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+  {
+     "_id":"db42c97d-0dc9-4bea-9d16-a53b11d39890",
+     "estacao":"Terminal Paulo da Portela",
+     "cod": "TCMPP", 
+     "linhas":[
+        "35 - Alvorada x Terminal Paulo da Portela - PARADOR",
+        "40 - Alvorada x Terminal Paulo da Portela - EXPRESSO",
+        "41 - Recreio x Terminal Paulo da Portela - EXPRESSO"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+  {
+     "_id":"53388cbc-87ad-46cb-9205-8a6f4fe80261",
+     "estacao":"Vaz Lobo",
+     "cod": "TCVLO", 
+     "linhas":[
+        "38 - Alvorada x Galeão Tom Jobim - PARADOR",
+        "42 - Madureira x Galeão Tom Jobim - PARADOR"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+  {
+     "_id":"8fe61b5e-8557-47de-a57b-578fa6cdfe22",
+     "estacao":"Via Parque",
+     "cod": "TCVPA",
+     "linhas":[
+        "50 - Jardim Oceânico x Terminal Centro Olímpico - PARADOR",
+        "35 - Alvorada x Terminal Paulo da Portela - PARADOR",
+        "38 - Alvorada x Galeão Tom Jobim - PARADOR",
+        "40 - Alvorada x Terminal Paulo da Portela - EXPRESSO",
+        "52 - Alvorada x Deodoro - PARADOR",
+        "53 - Alvorada x Terminal Sulacap - EXPRESSO"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+  {
+     "_id":"979748be-e87e-44cb-afb6-fa501f8f24ac",
+     "estacao":"Vicente de Carvalho",
+     "cod": "TCVCA", 
+     "linhas":[
+        "31 - Alvorada x Vicente de Carvalho - SEMIDIRETO",
+        "38 - Alvorada x Galeão Tom Jobim - PARADOR",
+        "42 - Madureira x Galeão Tom Jobim - PARADOR",
+        "46 - Alvorada x Penha 2 - EXPRESSO",
+        "43 - Santa Efigênia x Terminal Fundão - EXPRESSO"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+  {
+     "_id":"7344522d-cc3b-4765-aa0b-a8d27b6990ef",
+     "estacao":"Vila Kosmos",
+     "cod": "TCVKO", 
+     "linhas":[
+        "38 - Alvorada x Galeão Tom Jobim - PARADOR",
+        "42 - Madureira x Galeão Tom Jobim - PARADOR"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+  {
+     "_id":"c8ec7b9d-015e-4fb4-b887-3b74edd609cf",
+     "estacao":"Vila Queiroz",
+     "cod": "TCVQE",
+     "linhas":[
+        "38 - Alvorada x Galeão Tom Jobim - PARADOR",
+        "42 - Madureira x Galeão Tom Jobim - PARADOR"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+  {
+     "_id":"ee86329e-cd45-407e-a773-8d2ba6553b6f",
+     "estacao":"Vila Sapê - IV Centenário",
+     "cod": "TCVSA",
+     "linhas":[
+        "35 - Alvorada x Terminal Paulo da Portela - PARADOR",
+        "38 - Alvorada x Galeão Tom Jobim - PARADOR"
+     ],
+     "fechada":false,
+     "icon":"hearto"
+  },
+
+  
+  {
+    "_id":"1c1729a8-1b45-4f29-a389-e19f1b115ae0",
+    "estacao":"31 de Outubro",
+    "cod": "TOOUT",
+    "linhas":[
+       "14 - Salvador Allende x Santa Eugênia - EXPRESSO",
+       "17 - Santa Cruz x Campo Grande - PARADOR"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"23d24ec7-1071-4cb9-a624-ea506d27d405",
+    "estacao":"Afrânio Costa",
+    "cod": "TOAFC", 
+    "linhas":[
+       "22 - Jardim Oceânico x Alvorada - PARADOR",
+       "50 - Jardim Oceânico x Terminal Centro Olímpico - PARADOR"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"59fe4ae1-df1b-47dc-adef-7b098cdb24cb",
+    "estacao":"Alvorada",
+    "cod": "TOTAL",
+    "linhas":[
+       "22 - Jardim Oceânico x Alvorada - PARADOR",
+       "10 - Alvorada x Santa Cruz - EXPRESSO",
+       "11N - Alvorada x Santa Cruz - PARADOR",
+       "12 - Alvorada x Pingo d'água - EXPRESSO",
+       "13 - Alvorada x Mato Alto - EXPRESSO",
+       "50 - Jardim Oceânico x Terminal Centro Olímpico - PARADOR",
+       "25A - Alvorada x Mato Alto - PARADOR",
+       "31 - Alvorada x Vicente de Carvalho - SEMIDIRETO",
+       "35 - Alvorada x Terminal Paulo da Portela - PARADOR",
+       "38 - Alvorada x Galeão Tom Jobim - PARADOR",
+       "40 - Alvorada x Terminal Paulo da Portela - EXPRESSO",
+       "46 - Alvorada x Penha 2 - EXPRESSO",
+       "52 - Alvorada x Deodoro - PARADOR",
+       "53 - Alvorada x Terminal Sulacap - EXPRESSO"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"efb3afd1-a223-4ed9-9bf1-8b331ff124bc",
+    "estacao":"Américas Park",
+    "cod": "TOAPK",
+    "linhas":[
+       "10 - Alvorada x Santa Cruz - EXPRESSO",
+       "11N - Alvorada x Santa Cruz - PARADOR",
+       "18 - Jardim Oceânico x Recreio Shopping - EXPRESSO",
+       "25A - Alvorada x Mato Alto - PARADOR"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"dddec323-088d-4995-8c8e-434bb655c835",
+    "estacao":"Ana Gonzaga",
+    "cod": "TOAGZ",
+    "linhas":[
+       "17 - Santa Cruz x Campo Grande - PARADOR"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"77cfffdf-9ae6-44df-a9a2-28c93899dc14",
+    "estacao":"Barra Shopping",
+    "cod": "TOBSP",
+    "linhas":[
+       "22 - Jardim Oceânico x Alvorada - PARADOR",
+       "50 - Jardim Oceânico x Terminal Centro Olímpico - PARADOR",
+       "18 - Jardim Oceânico x Recreio Shopping - EXPRESSO"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"b347c197-94e8-4d32-a573-d17ead9416b2",
+    "estacao":"Bemvindo de Novaes",
+    "cod": "TOBNO",
+    "linhas":[
+       "10 - Alvorada x Santa Cruz - EXPRESSO",
+       "11N - Alvorada x Santa Cruz - PARADOR",
+       "25A - Alvorada x Mato Alto - PARADOR"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"dbe11a02-c377-4b1b-97ed-d7c9e99d0cf3",
+    "estacao":"Bosque da Barra",
+    "cod": "TOBBA",
+    "linhas":[
+       "10 - Alvorada x Santa Cruz - EXPRESSO",
+       "11N - Alvorada x Santa Cruz - PARADOR",
+       "25A - Alvorada x Mato Alto - PARADOR"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"08a2a932-4139-4346-b1fa-a1c4fbec43f9",
+    "estacao":"Bosque de Marapendi",
+    "cod": "TOBMP", 
+    "linhas":[
+       "22 - Jardim Oceânico x Alvorada - PARADOR",
+       "50 - Jardim Oceânico x Terminal Centro Olímpico - PARADOR",
+       "18 - Jardim Oceânico x Recreio Shopping - EXPRESSO"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"9050ac26-1405-441a-81a8-3372d47a4b91",
+    "estacao":"Cajueiros",
+    "cod": "TOCAJ",
+    "linhas":[
+       "10 - Alvorada x Santa Cruz - EXPRESSO",
+       "11N - Alvorada x Santa Cruz - PARADOR",
+       "17 - Santa Cruz x Campo Grande - PARADOR",
+       "20 - Salvador Allende x Santa Cruz - EXPRESSO"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"b4fa8071-e5f5-4940-bd21-4c8956e46363",
+    "estacao":"Campo Grande",
+    "cod": "TOCGD",
+    "linhas":[
+       "17 - Santa Cruz x Campo Grande - PARADOR"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"4e8bd35f-2bf9-49dd-9732-223c7dd81f6e",
+    "estacao":"Cândido Magalhães",
+    "cod": "TOCMG",
+    "linhas":[
+       "17 - Santa Cruz x Campo Grande - PARADOR"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"2a5086e0-9198-40e9-b562-697788d31083",
+    "estacao":"Cesarão I",
+    "cod": "TOI", 
+    "linhas":[
+       "14 - Salvador Allende x Santa Eugênia - EXPRESSO",
+       "17 - Santa Cruz x Campo Grande - PARADOR"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"afc56a70-9a7e-4e26-b0ee-532fc7d530ca",
+    "estacao":"Cesarão II",
+    "cod": "TOII",
+    "linhas":[
+       "14 - Salvador Allende x Santa Eugênia - EXPRESSO",
+       "17 - Santa Cruz x Campo Grande - PARADOR"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"befc9a36-6ed5-47a4-9e6e-b7db5b633d15",
+    "estacao":"Cesarão III",
+    "cod": "TOIII",
+    "linhas":[
+       "14 - Salvador Allende x Santa Eugênia - EXPRESSO",
+       "17 - Santa Cruz x Campo Grande - PARADOR"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"39fbe78f-9026-44b1-a5dd-9289e5f6e7cf",
+    "estacao":"Cesarinho",
+    "cod": "TOCSO",
+    "linhas":[
+       "14 - Salvador Allende x Santa Eugênia - EXPRESSO",
+       "17 - Santa Cruz x Campo Grande - PARADOR"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"1c510823-700a-430c-a0ea-fda8126bbdfb",
+    "estacao":"Cosmos",
+    "cod": "TOCOS",
+    "linhas":[
+       "17 - Santa Cruz x Campo Grande - PARADOR"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"2bb5fb87-a46a-4fe0-baad-3e215ac4e4c5",
+    "estacao":"CTEx",
+    "cod": "TOCET",
+    "linhas":[
+       "10 - Alvorada x Santa Cruz - EXPRESSO",
+       "11N - Alvorada x Santa Cruz - PARADOR",
+       "25A - Alvorada x Mato Alto - PARADOR"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"c5c2e370-17f7-48b9-9496-259f9a658dfc",
+    "estacao":"Curral Falso",
+    "cod": "TOCFA",
+    "linhas":[
+       "10 - Alvorada x Santa Cruz - EXPRESSO",
+       "11N - Alvorada x Santa Cruz - PARADOR",
+       "14 - Salvador Allende x Santa Eugênia - EXPRESSO",
+       "20 - Salvador Allende x Santa Cruz - EXPRESSO"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"2d4f68ff-3dba-4b0c-bdd4-3066d674406f",
+    "estacao":"Dom Bosco",
+    "cod": "TODBS",
+    "linhas":[
+       "10 - Alvorada x Santa Cruz - EXPRESSO",
+       "11N - Alvorada x Santa Cruz - PARADOR",
+       "25A - Alvorada x Mato Alto - PARADOR"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"a0fa7948-8193-48a9-8adc-58e894a36573",
+    "estacao":"Embrapa",
+    "cod": "TOEMB",
+    "linhas":[
+       "10 - Alvorada x Santa Cruz - EXPRESSO",
+       "11N - Alvorada x Santa Cruz - PARADOR"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"64049027-8264-4701-8803-72e58ebcd623",
+    "estacao":"Gastão Rangel",
+    "cod": "TOGAR",
+    "linhas":[
+       "10 - Alvorada x Santa Cruz - EXPRESSO",
+       "11N - Alvorada x Santa Cruz - PARADOR",
+       "17 - Santa Cruz x Campo Grande - PARADOR",
+       "20 - Salvador Allende x Santa Cruz - EXPRESSO"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"d931bcd5-87e3-454b-b3de-976609e2ea37",
+    "estacao":"Gelson Fonseca",
+    "cod": "TOGFO",
+    "linhas":[
+       "10 - Alvorada x Santa Cruz - EXPRESSO",
+       "11N - Alvorada x Santa Cruz - PARADOR",
+       "25A - Alvorada x Mato Alto - PARADOR"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"ae622896-71c7-45ca-87e1-3e29cf0cb1b3",
+    "estacao":"General Olímpio",
+    "cod": "TOGEN",
+    "linhas":[
+       "10 - Alvorada x Santa Cruz - EXPRESSO",
+       "11N - Alvorada x Santa Cruz - PARADOR",
+       "17 - Santa Cruz x Campo Grande - PARADOR",
+       "20 - Salvador Allende x Santa Cruz - EXPRESSO"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"4298d0c9-5cb7-4f66-8ac3-80a548487437",
+    "estacao":"Gilka Machado",
+    "cod": "TOGMA", 
+    "linhas":[
+       "10 - Alvorada x Santa Cruz - EXPRESSO",
+       "11N - Alvorada x Santa Cruz - PARADOR",
+       "18 - Jardim Oceânico x Recreio Shopping - EXPRESSO",
+       "25A - Alvorada x Mato Alto - PARADOR"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"6cf56117-1058-43c1-9bf4-d8ab80bfda52",
+    "estacao":"Gláucio Gil",
+    "cod": "TOGGI", 
+    "linhas":[
+       "10 - Alvorada x Santa Cruz - EXPRESSO",
+       "11N - Alvorada x Santa Cruz - PARADOR",
+       "12 - Alvorada x Pingo d'água - EXPRESSO",
+       "13 - Alvorada x Mato Alto - EXPRESSO",
+       "14 - Salvador Allende x Santa Eugênia - EXPRESSO",
+       "18 - Jardim Oceânico x Recreio Shopping - EXPRESSO",
+       "19 - Salvador Allende x Pingo d'água - EXPRESSO",
+       "20 - Salvador Allende x Santa Cruz - EXPRESSO",
+       "25A - Alvorada x Mato Alto - PARADOR"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"8a8c45ac-2ff8-4bde-862f-1aa69fd903b4",
+    "estacao":"Golfe Olímpico",
+    "cod": "TOGOL",
+    "linhas":[
+       "10 - Alvorada x Santa Cruz - EXPRESSO",
+       "11N - Alvorada x Santa Cruz - PARADOR",
+       "25A - Alvorada x Mato Alto - PARADOR"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"8643ef4c-83af-44dc-a152-7b072542ab85",
+    "estacao":"Gramado",
+    "linhas":[
+       ""
+    ],
+    "fechada":true,
+    "icon":"hearto"
+ },
+ {
+    "_id":"1e836e72-2b79-4208-9dfc-fca706a06097",
+    "estacao":"Guignard",
+    "cod": "TOGUI", 
+    "linhas":[
+       "10 - Alvorada x Santa Cruz - EXPRESSO",
+       "11N - Alvorada x Santa Cruz - PARADOR",
+       "25A - Alvorada x Mato Alto - PARADOR"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"c26e93cf-0746-411b-b730-a7c61c3db767",
+    "estacao":"Guiomar Novaes",
+    "cod": "TOGNO",
+    "linhas":[
+       "10 - Alvorada x Santa Cruz - EXPRESSO",
+       "11N - Alvorada x Santa Cruz - PARADOR",
+       "25A - Alvorada x Mato Alto - PARADOR"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"2f6190b3-f7c7-469b-b9fd-a97b08246fbf",
+    "estacao":"Icurana",
+    "cod": "TOICR", 
+    "linhas":[
+       "17 - Santa Cruz x Campo Grande - PARADOR"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"a64a15bf-d22f-4452-afed-1639dea6e637",
+    "estacao":"Ilha de Guaratiba",
+    "cod": "TOIGU",
+    "linhas":[
+       "10 - Alvorada x Santa Cruz - EXPRESSO",
+       "11N - Alvorada x Santa Cruz - PARADOR",
+       "13 - Alvorada x Mato Alto - EXPRESSO",
+       "25A - Alvorada x Mato Alto - PARADOR"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"94ad5a3b-1502-4e2d-9e7d-1be543cda26a",
+    "estacao":"Inhoaíba",
+    "cod": "TOINH",
+    "linhas":[
+       "17 - Santa Cruz x Campo Grande - PARADOR"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"b6226d32-aaaf-4cb6-ab33-43e904159664",
+    "estacao":"Interlagos",
+    "cod": "TOINT",
+    "linhas":[
+       "10 - Alvorada x Santa Cruz - EXPRESSO",
+       "11N - Alvorada x Santa Cruz - PARADOR",
+       "25A - Alvorada x Mato Alto - PARADOR"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"1408574e-cf1f-4447-ab1c-41531a8bcb9b",
+    "estacao":"Jardim Oceânico",
+    "cod": "TOJOC",
+    "linhas":[
+       "22 - Jardim Oceânico x Alvorada - PARADOR",
+       "50 - Jardim Oceânico x Terminal Centro Olímpico - PARADOR",
+       "18 - Jardim Oceânico x Recreio Shopping - EXPRESSO"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"8235be6b-9663-4572-9f9d-2b280780111d",
+    "estacao":"Júlia Miguel",
+    "cod": "TOJMG",
+    "linhas":[
+       "17 - Santa Cruz x Campo Grande - PARADOR"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"ff264c89-acc6-49b1-99ba-cbe7c7995003",
+    "estacao":"Magarça",
+    "cod": "TOMAG", 
+    "linhas":[
+       "10 - Alvorada x Santa Cruz - EXPRESSO",
+       "11N - Alvorada x Santa Cruz - PARADOR",
+       "12 - Alvorada x Pingo d'água - EXPRESSO",
+       "19 - Salvador Allende x Pingo d'água - EXPRESSO",
+       "20 - Salvador Allende x Santa Cruz - EXPRESSO"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"ed963851-bc30-45e7-94fa-51358c50fc85",
+    "estacao":"Mato Alto",
+    "cod": "TOMAT",
+    "linhas":[
+       "10 - Alvorada x Santa Cruz - EXPRESSO",
+       "11N - Alvorada x Santa Cruz - PARADOR",
+       "12 - Alvorada x Pingo d'água - EXPRESSO",
+       "13 - Alvorada x Mato Alto - EXPRESSO",
+       "19 - Salvador Allende x Pingo d'água - EXPRESSO",
+       "20 - Salvador Allende x Santa Cruz - EXPRESSO",
+       "25A - Alvorada x Mato Alto - PARADOR"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"7d02d295-49d1-4140-b163-dedc46558004",
+    "estacao":"Notredame",
+    "cod": "TONDA",
+    "linhas":[
+       "10 - Alvorada x Santa Cruz - EXPRESSO",
+       "11N - Alvorada x Santa Cruz - PARADOR",
+       "18 - Jardim Oceânico x Recreio Shopping - EXPRESSO",
+       "25A - Alvorada x Mato Alto - PARADOR"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"a9c815ff-a15d-4c94-898c-ba337b5b69e2",
+    "estacao":"Nova Barra",
+    "cod": "TONBA",
+    "linhas":[
+       "10 - Alvorada x Santa Cruz - EXPRESSO",
+       "11N - Alvorada x Santa Cruz - PARADOR",
+       "18 - Jardim Oceânico x Recreio Shopping - EXPRESSO",
+       "25A - Alvorada x Mato Alto - PARADOR"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"25b2e20b-1919-4fb7-86db-7a9cf08995d2",
+    "estacao":"Novo Leblon",
+    "cod": "TONLB",
+    "linhas":[
+       "10 - Alvorada x Santa Cruz - EXPRESSO",
+       "11N - Alvorada x Santa Cruz - PARADOR",
+       "18 - Jardim Oceânico x Recreio Shopping - EXPRESSO",
+       "25A - Alvorada x Mato Alto - PARADOR"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"52e6fe6b-3b02-40e5-86bd-a347e2ea7f2a",
+    "estacao":"Parque das Rosas",
+    "cod": "TOPQR",
+    "linhas":[
+       "22 - Jardim Oceânico x Alvorada - PARADOR",
+       "50 - Jardim Oceânico x Terminal Centro Olímpico - PARADOR",
+       "18 - Jardim Oceânico x Recreio Shopping - EXPRESSO"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"c5314efa-ddc5-4c78-975c-ec3af4d7863e",
+    "estacao":"Parque de São Paulo",
+    "cod": "TOPSP",
+    "linhas":[
+       "17 - Santa Cruz x Campo Grande - PARADOR"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"798217ad-1c2d-41df-8f54-122db73d1153",
+    "estacao":"Parque esperança",
+    "cod": "TOPDE", 
+    "linhas":[
+       "17 - Santa Cruz x Campo Grande - PARADOR"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"8545c1ff-114b-43e6-9c53-e484df4fea73",
+    "estacao":"Paulo Malta Rezende",
+    "cod": "TOPMR",
+    "linhas":[
+       "22 - Jardim Oceânico x Alvorada - PARADOR",
+       "50 - Jardim Oceânico x Terminal Centro Olímpico - PARADOR"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"aa92dde2-2641-4833-9c5d-b00cb6ce9065",
+    "estacao":"Pedra de Itaúna",
+    "cod": "TOPIT", 
+    "linhas":[
+       "10 - Alvorada x Santa Cruz - EXPRESSO",
+       "11N - Alvorada x Santa Cruz - PARADOR",
+       "25A - Alvorada x Mato Alto - PARADOR"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"48e989dd-ae3d-412e-942b-f6750114dfbd",
+    "estacao":"Pina Rangel",
+    "cod": "TOPRG",
+    "linhas":[
+       "17 - Santa Cruz x Campo Grande - PARADOR"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"799d8963-e166-4b82-b5d3-b5024c4d25ad",
+    "estacao":"Pingo d'água",
+    "cod": "TOPDA",
+    "linhas":[
+       "10 - Alvorada x Santa Cruz - EXPRESSO",
+       "11N - Alvorada x Santa Cruz - PARADOR",
+       "12 - Alvorada x Pingo d'água - EXPRESSO",
+       "19 - Salvador Allende x Pingo d'água - EXPRESSO",
+       "20 - Salvador Allende x Santa Cruz - EXPRESSO"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"7cb9fcde-5127-4192-a125-35ba4b694d12",
+    "estacao":"Pontal",
+    "cod": "TOPON",
+    "linhas":[
+       "10 - Alvorada x Santa Cruz - EXPRESSO",
+       "11N - Alvorada x Santa Cruz - PARADOR",
+       "25A - Alvorada x Mato Alto - PARADOR"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"857ded3c-2c7e-49c7-bb5a-d26a9391822f",
+    "estacao":"Pontões/Barra Sul",
+    "cod": "TOPBS", 
+    "linhas":[
+       "10 - Alvorada x Santa Cruz - EXPRESSO",
+       "11N - Alvorada x Santa Cruz - PARADOR",
+       "25A - Alvorada x Mato Alto - PARADOR"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"b8bd58c7-5f7f-4a40-bd7a-1cd11d295016",
+    "estacao":"Prefeito Alim Pedro",
+    "cod": "TOPAP",
+    "linhas":[
+       "17 - Santa Cruz x Campo Grande - PARADOR"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"711e5ed4-7943-4064-878d-9d9520b063d3",
+    "estacao":"Recanto das Garças",
+    "cod": "TORGC", 
+    "linhas":[
+       "10 - Alvorada x Santa Cruz - EXPRESSO",
+       "11N - Alvorada x Santa Cruz - PARADOR",
+       "25A - Alvorada x Mato Alto - PARADOR"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"053d2a62-cf90-4fc4-b362-f406a3659fc2",
+    "estacao":"Terminal Recreio",
+    "cod": "TLREC",
+    "linhas":[
+       "10 - Alvorada x Santa Cruz - EXPRESSO",
+       "11N - Alvorada x Santa Cruz - PARADOR",
+       "51 - Recreio x Deodoro - PARADOR",
+       "41 - Recreio x Terminal Paulo da Portela - EXPRESSO"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"76b1a033-aed1-479a-a3d7-b77cb4d60fd7",
+    "estacao":"Recreio Shopping",
+    "cod": "TORSH",
+    "linhas":[
+       "10 - Alvorada x Santa Cruz - EXPRESSO",
+       "11N - Alvorada x Santa Cruz - PARADOR",
+       "12 - Alvorada x Pingo d'água - EXPRESSO",
+       "13 - Alvorada x Mato Alto - EXPRESSO",
+       "18 - Jardim Oceânico x Recreio Shopping - EXPRESSO",
+       "19 - Salvador Allende x Pingo d'água - EXPRESSO",
+       "20 - Salvador Allende x Santa Cruz - EXPRESSO",
+       "25A - Alvorada x Mato Alto - PARADOR"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"15e92eac-d837-403b-a9d5-ce9189c399ca",
+    "estacao":"Ricardo Marinho",
+    "cod": "TORCM",
+    "linhas":[
+       "22 - Jardim Oceânico x Alvorada - PARADOR",
+       "50 - Jardim Oceânico x Terminal Centro Olímpico - PARADOR"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"3f56437c-470e-459a-86f8-e7f1d4a193fb",
+    "estacao":"Riomar",
+    "cod": "TORMA",
+    "linhas":[
+       "10 - Alvorada x Santa Cruz - EXPRESSO",
+       "11N - Alvorada x Santa Cruz - PARADOR",
+       "25A - Alvorada x Mato Alto - PARADOR"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"6859cabc-3e0d-446c-9ea1-53df9ea843ad",
+    "estacao":"Riviera (Barra Garden)",
+    "cod": "TORIV",
+    "linhas":[
+       "22 - Jardim Oceânico x Alvorada - PARADOR",
+       "50 - Jardim Oceânico x Terminal Centro Olímpico - PARADOR"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"5060f792-2ae4-4d0d-a901-46ef91455a31",
+    "estacao":"Salvador Allende",
+    "cod": "TOSAL",
+    "linhas":[
+       "10 - Alvorada x Santa Cruz - EXPRESSO",
+       "11N - Alvorada x Santa Cruz - PARADOR",
+       "12 - Alvorada x Pingo d'água - EXPRESSO",
+       "13 - Alvorada x Mato Alto - EXPRESSO",
+       "14 - Salvador Allende x Santa Eugênia - EXPRESSO",
+       "18 - Jardim Oceânico x Recreio Shopping - EXPRESSO",
+       "19 - Salvador Allende x Pingo d'água - EXPRESSO",
+       "20 - Salvador Allende x Santa Cruz - EXPRESSO",
+       "25A - Alvorada x Mato Alto - PARADOR"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"17ce6c6a-21e9-458f-aa32-5a1631ac5a3c",
+    "estacao":"Santa Cruz",
+    "cod": "TOSTC",
+    "linhas":[
+       "10 - Alvorada x Santa Cruz - EXPRESSO",
+       "11N - Alvorada x Santa Cruz - PARADOR",
+       "17 - Santa Cruz x Campo Grande - PARADOR",
+       "20 - Salvador Allende x Santa Cruz - EXPRESSO"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"e7f61319-7ab3-45a7-991b-b7c3a3b1ef50",
+    "estacao":"Santa Eugênia",
+    "cod": "TOSEG",
+    "linhas":[
+       "14 - Salvador Allende x Santa Eugênia - EXPRESSO",
+       "17 - Santa Cruz x Campo Grande - PARADOR"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"bd795b34-cb40-493d-af3f-4272a91dde02",
+    "estacao":"Santa Mônica Jardins",
+    "cod": "TOSMJ", 
+    "linhas":[
+       "10 - Alvorada x Santa Cruz - EXPRESSO",
+       "11N - Alvorada x Santa Cruz - PARADOR",
+       "25A - Alvorada x Mato Alto - PARADOR"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"314f7a87-7270-4275-9ca1-7c8943af1c7b",
+    "estacao":"Santa Veridiana",
+    "cod": "TOSVE",
+    "linhas":[
+       "10 - Alvorada x Santa Cruz - EXPRESSO",
+       "11N - Alvorada x Santa Cruz - PARADOR",
+       "20 - Salvador Allende x Santa Cruz - EXPRESSO"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"6f08447f-267a-4368-ab58-3159e58ef47c",
+    "estacao":"São Jorge",
+    "cod": "TOSJG", 
+    "linhas":[
+       "17 - Santa Cruz x Campo Grande - PARADOR"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"6a7cf482-a4a1-42b4-9288-acfdb6c8a2ae",
+    "estacao":"Três Pontes",
+    "cod": "TOTPO",
+    "linhas":[
+       "14 - Salvador Allende x Santa Eugênia - EXPRESSO",
+       "17 - Santa Cruz x Campo Grande - PARADOR"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"bd5b8229-b667-486c-890d-c9bc667fe39e",
+    "estacao":"Vendas de Varanda",
+    "cod": "TOVVA", 
+    "linhas":[
+       "10 - Alvorada x Santa Cruz - EXPRESSO",
+       "11N - Alvorada x Santa Cruz - PARADOR",
+       "20 - Salvador Allende x Santa Cruz - EXPRESSO"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"385acf29-6de6-4070-b9b2-07b6b44fdba3",
+    "estacao":"Vila Paciência",
+    "cod": "TOVPC", 
+    "linhas":[
+       "14 - Salvador Allende x Santa Eugênia - EXPRESSO",
+       "17 - Santa Cruz x Campo Grande - PARADOR"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ },
+ {
+    "_id":"7e814507-d922-45af-8f38-470c92c8ed86",
+    "estacao":"Vilar Carioca",
+    "cod": "TOVCA",
+    "linhas":[
+       "17 - Santa Cruz x Campo Grande - PARADOR"
+    ],
+    "fechada":false,
+    "icon":"hearto"
+ }
+ 
+]
