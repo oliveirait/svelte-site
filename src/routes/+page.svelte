@@ -1,5 +1,5 @@
 <script lang="ts">
-    let image = "https://play-lh.googleusercontent.com/RHFxPOhb3IqgaC1OFve1yMXfi2DoczwmXU4rPEMeWqK7FSiCJ8qNfLl5i7vROxhGG8s=w3840-h2160-rw"
+    let image = "https://www.canva.com/design/DAFhtHVhXes/view"
 
     let href = "https://play.google.com/store/apps/dev?id=7575363218543079895"
 
@@ -16,7 +16,11 @@
             </h1>
 
             <div class="mt-10 lg:mt-20 lg:flex lg:items-center bg-white dark:bg-gray-900">
-                <img class="object-cover border-2 object-center w-full lg:w-[32rem] h-96 rounded-full" src={image} alt="Logo Projeto Github">
+                <img 
+                    class="object-cover border-2 object-center w-full lg:w-[32rem] h-96 rounded-full" 
+                    src={image} 
+                    alt="Logo Projeto Github"
+                >
 
                 <div class="mt-8 lg:px-10 lg:mt-0 flex flex-col justify-between gap-4">
                     <h1 class="text-2xl font-semibold text-gray-800 dark:text-white lg:w-72">
