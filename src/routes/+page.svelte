@@ -28,10 +28,11 @@
                     </h1>
 
                     <p class="max-w-lg mt-6 text-gray-500 dark:text-gray-400">
-                        Nosso compromisso na Oliveira Code Lab é criar soluções inovadoras, 
-                        permanecendo atentos ao mercado em constante evolução. 
+                        Bem vindo(a) a Oliveira Lab!
+                        Nosso compromisso é criar soluções de aplicativos e softwares
+                        inovadores. Nos mantemos atentos ao mercado, o qual está em constante evolução. 
                         Estamos focados em facilitar a vida das pessoas por meio de nossa 
-                        paixão pelo desenvolvimento de software e inovação constante.
+                        paixão pelo desenvolvimento de software e busca por inovação.
                     </p>
 
                     <div class="w-24 h-10 mt-8 rounded-lg bg-blue-500 items-center justify-center text-white flex hover:scale-110 ease-in transition ">
