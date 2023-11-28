@@ -1,5 +1,5 @@
 <script>
-    let logo = "https://play-lh.googleusercontent.com/tAhbKO7TK7FHzSJgb2ka1eFyUcTFzPWYpccbslVMF1ot2JKz1oR_Hlg_LBeiDDkdMg=s94-rw"
+    let logo = "https://lh3.googleusercontent.com/0jEahNN0RTjsEwTICoyZK8nCXfUIEqDk80059VxOuMhy3Nt8Hnv9Mlq36l8EYpR56w"
 </script>
 
 
