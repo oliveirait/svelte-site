@@ -52,7 +52,7 @@
 </script>
 
 
-<section class="min-h-screen bg-white dark:bg-gray-900 lg:flex flex-col flex items-center py-6">
+<section class="min-h-screen bg-white dark:bg-gray-900 lg:flex flex-col flex items-center py-6 mt-24">
     <div class="flex flex-col justify-center w-full p-8 pt-0 lg:w-1/2 lg:px-12 xl:px-24 items-center mt-4">
 
         <h1 class="text-2xl font-semibold text-gray-800 capitalize dark:text-white lg:text-3xl">Entre em contato.</h1>
