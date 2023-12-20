@@ -6,20 +6,23 @@
         {href: '/', label: 'Inicio'},
         {href: '/projetos', label: 'projetos'},
         {href: '/contato', label: 'contato'},
-
     ]
 
 </script>
 
-<nav class="bg-white shadow dark:bg-gray-800 font-medium fixed top-0 w-full z-10">
-    <div class="container flex items-center justify-center p-6 mx-auto text-gray-600 capitalize dark:text-gray-300">
-        <img 
-            src={icon}
-            alt="Logo" 
-            class="h-8 w-8 mr-12 border-2 border-zinc-500 rounded-full" 
-        />
-        {#each items as {href, label}}
-            <a {href} class="border-b-2 border-transparent hover:text-gray-800 hover:scale-110 hover:transition ease-in transition-colors duration-300 dark:hover:text-gray-200 hover:border-blue-500 mx-1.5 sm:mx-6">{label}</a>
-        {/each}
-   </div>
+<nav class=" flex items-center justify-center shadow-lg shadow-gray-600 bg-gray-800 font-medium text-white z-10 fixed top-0 w-full">
+    
+    <div class=" w-[1000px] flex flex-row justify-center items-center md:justify-between px-8">
+        <div class="hidden md:flex flex-row gap-4 items-center justify-center">
+            <img src={icon} alt="Logo" class="h-10 w-10 border-2 border-white rounded-full " />
+            <p>Felipe's portfolio</p>
+        </div>
+        
+        <div class="flex items-center justify-center p-4 capitalize text-gray-600 space-x-2 ">
+            {#each items as {href, label}}
+                <a {href} class="w-24 border-b-2 text-gray-100 border-transparent hover:scale-105 hover:transition ease-in transition-colors duration-300 hover:border-blue-400 p-2 items-center justify-center flex">{label}</a>
+            {/each}
+       </div>
+    </div>
+
 </nav>

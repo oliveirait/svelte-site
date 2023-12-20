@@ -111,7 +111,7 @@
         "51 - Recreio x Deodoro - PARADOR",
         "52 - Alvorada x Deodoro - PARADOR"
      ],
-     "fechada":true
+     "fechada":false
   },
 
   {
@@ -212,7 +212,7 @@
         "51 - Recreio x Deodoro - PARADOR",
         "52 - Alvorada x Deodoro - PARADOR"
      ],
-     "fechada":true
+     "fechada":false
   },
   {
      "_id":"d2cb6f82-70a7-4895-9eed-87a9be9aa0c2",
@@ -1134,7 +1134,7 @@
     "linhas":[
        ""
     ],
-    "fechada":true
+    "fechada":false
  },
  {
     "_id":"1e836e72-2b79-4208-9dfc-fca706a06097",

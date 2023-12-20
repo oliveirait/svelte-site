@@ -5,15 +5,9 @@
 </script>
 
 
-  <Header />
-
-  <div class="w-full h-full flex flex-col dark:bg-gray-900 min-h-screen ">
-    <slot />
-  </div>
-
-  <Footer />
-
-
-
-
+<Header />
+<div class=" items-center justify-center flex w-full bg-gray-800 h-full">
+  <slot />
+</div>
+<Footer />
 

@@ -1,65 +1,13 @@
 
 <script lang="ts">
     import { onMount } from "svelte";
+    import { items } from "../../config/assets_path";
 
-    interface ProjectProps {
-        name: string
-        description: string
-        language: string
-        html_url: string
-    }
+    const title = 'Projetos'
 
-    const template = "https://files.tecnoblog.net/wp-content/uploads/2022/06/capa-github-700x394.jpg"
-    const endpoint2 = "https://api.github.com/users/oliveirait/repos"
-    const items: any = [
-        {
-            name: "Rapid Form", 
-            description: "Sítio Web de uma empresa que presta serviços de de preenchimento de formulários de cooperativas médicas", 
-            language: "Javascript/ReactJs", 
-            html_url: "https://rapidform.online",
-            background_path: "rapidform.PNG"
-        },
+    //const template = "https://files.tecnoblog.net/wp-content/uploads/2022/06/capa-github-700x394.jpg"
+    //const endpoint2 = "https://api.github.com/users/oliveirait/repos"
 
-        {
-            name: "Oliveira Lab", 
-            description: "Meu site de portifólio", 
-            language: "Typescript/Svelte", 
-            html_url: "https://oliveiracode.online",
-            background_path: "oliveiracode.PNG"
-        },
-
-        {
-            name: "Meu BRT", 
-            description: "Aplicativo de informações sobre mobilidade urbana", 
-            language: "Typescript/React Native", 
-            html_url: "https://play.google.com/store/apps/details?id=com.oliveirafocs.localizarbrt",
-            background_path: "meubrt.PNG"
-        },
-
-        {
-            name: "Praias Limpas", 
-            description: "Aplicativo que exibe informações sobre balneabilidade das praias no Brasil", 
-            language: "Typescript/React Native", 
-            html_url: "https://play.google.com/store/apps/details?id=com.oliveirafocs.beachesinbrasil",
-            background_path: "praiaslimpas.PNG"
-        },
-
-        {
-            name: "CNPJ Rápido", 
-            description: "Aplicativo de consulta de CNPJ", 
-            language: "Typescript/React Native", 
-            html_url: "https://play.google.com/store/apps/details?id=com.oliveirafocs.cnpjrapido",
-            background_path: "cnpjrapido.PNG"
-        },
-
-                {
-            name: "IMC Calculadora", 
-            description: "Aplicativo de cálculo de IMC (Índice de massa corporal)", 
-            language: "Typescript/React Native", 
-            html_url: "https://play.google.com/store/apps/details?id=com.oliveirafocs.imccalculadora",
-            background_path: "imccalculadora.PNG"
-        }
-    ]
     
 
     async function getData () {
@@ -74,39 +22,49 @@
 </script>
 
 
-{#if items.length > 0}
-    {#each items as {name, description, language, html_url, background_path}}
+<section class="bg-gray-800 mt-28 text-white">
+    <div class="flex flex-col px-6 py-10 mx-auto items-center justify-center">
+        <h1 class="text-2xl font-semibold text-center capitalize md:text-3xl">{title}</h1>
+        <h1 class="text-sm  mt-2 text-center ">
+            Para mais informações sobre projetos privados ou download de aplicativos,<br>
+            favor, entrar em contato.
+        </h1>
+    </div>
+    <div class="flex flex-col items-center justify-start mx-8 md:m-0 ">
+        {#if items.length > 0}
+        {#each items as {name, description, language, html_url, background_path}}
         <div class="
-            mb-8 p-4 md:p-8
-            bg-cover flex flex-col gap-8 mt-8 xl:mt-12 lg:grid-cols-2 bg-center mx-20 w-8/12 
-            rounded-2xl shadow-md shadow-white dark:shadow-white dark:shadow-sm hover:scale-105 
-            transition ease-in duration-300" style="background-image: url({background_path})"
+            mb-8 
+            bg-cover bg-no-repeat flex flex-col gap-8 mt-8 bg-center w-full 
+            rounded-2xl shadow-md shadow-white hover:scale-105 
+            transition ease-in duration-200 " style="background-image: url({background_path} "
         >
             <a href={html_url} target="_blank">
-                <div class="flex items-end overflow-hidden bg-cover h-96 rounded-2xl" >
-                    <div class="w-full px-8 py-4 overflow-hidden backdrop-blur-md bg-white/30 dark:bg-gray-700/20 rounded-t-xl">
-                        <h2 class="mt-4 text-xl font-semibold text-black capitalize  ">{name}</h2>
-                        <p class="mt-2 text-sm font-semibold text-gray-800 capitalize ">{!description ? 'Sem descricao' : description}</p>
-                        <p class="mt-2 text-sm -tracking-wide text-blue-700 font-bold uppercase dark:text-blue-400 ">{language}</p>
+                <div class="flex items-end overflow-hidden h-96 rounded-2xl w-full" >
+                    <div class="text-white w-full px-4 py-4 overflow-hidden backdrop-blur-sm  bg-gray-900/60 rounded-t-xl">
+                        <h2 class="mt-4 text-2xl font-bold underline capitalize  ">{name}</h2>
+                        <p class="mt-2 text-sm font-semibold ">{!description ? 'Sem descricao' : description}</p>
+                        <p class="mt-2 text-sm -tracking-wide font-bold uppercase text-blue-200 drop-shadow-xl">{language}</p>
                     </div>
                 </div>
             </a>
         </div>
-    {/each}
-
-{:else}
-    <div class="flex flex-col gap-8 mt-8 xl:mt-12 xl:gap-12 lg:grid-cols-2 bg-center mx-20 w-8/12 rounded-2xl shadow-md shadow-white dark:shadow-white dark:shadow-sm animate-pulse">
-        <div class="flex items-end overflow-hidden bg-cover h-96 rounded-2xl" >
-            <div class="w-full h-28 px-8 py-4 overflow-hidden backdrop-blur-sm bg-white/60 dark:bg-gray-700 rounded-t-xl">
-                <p class="mt-4 text-xl font-semibold text-black capitalize  "></p>
-                <p class="mt-2 text-sm font-semibold text-gray-800 capitalize "></p>
-                <p class="mt-2 text-sm -tracking-wide text-blue-700 font-bold uppercase dark:text-blue-400 "></p>
+        {/each}
+    
+        {:else}
+        <div class="flex flex-col gap-8 mt-8 xl:mt-12 xl:gap-12 lg:grid-cols-2 bg-center mx-20 w-8/12 rounded-2xl shadow-md shadow-white animate-pulse">
+            <div class="flex items-end overflow-hidden bg-cover h-96 rounded-2xl" >
+                <div class="w-full h-28 px-8 py-4 overflow-hidden backdrop-blur-sm bg-white/60 bg-gray-700 rounded-t-xl">
+                    <p class="mt-4 text-xl font-semibold text-black capitalize  "></p>
+                    <p class="mt-2 text-sm font-semibold text-gray-800 capitalize "></p>
+                    <p class="mt-2 text-sm -tracking-wide text-blue-700 font-bold uppercase "></p>
+                </div>
             </div>
         </div>
+    
+        {/if}
     </div>
-
-{/if}
-
+</section>
 
 
 
