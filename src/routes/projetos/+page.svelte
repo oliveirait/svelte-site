@@ -17,7 +17,7 @@
             description: "Sítio Web de uma empresa que presta serviços de de preenchimento de formulários de cooperativas médicas", 
             language: "Javascript/ReactJs", 
             html_url: "https://rapidform.online",
-            background_path: "/src/assets/rapidform.PNG"
+            background_path: "rapidform.PNG"
         },
 
         {
@@ -25,7 +25,7 @@
             description: "Meu site de portifólio", 
             language: "Typescript/Svelte", 
             html_url: "https://oliveiracode.online",
-            background_path: "/src/assets/oliveiracode.PNG"
+            background_path: "oliveiracode.PNG"
         },
 
         {
@@ -33,7 +33,7 @@
             description: "Aplicativo de informações sobre mobilidade urbana", 
             language: "Typescript/React Native", 
             html_url: "https://play.google.com/store/apps/details?id=com.oliveirafocs.localizarbrt",
-            background_path: "/src/assets/meubrt.PNG"
+            background_path: "meubrt.PNG"
         },
 
         {
@@ -41,7 +41,7 @@
             description: "Aplicativo que exibe informações sobre balneabilidade das praias no Brasil", 
             language: "Typescript/React Native", 
             html_url: "https://play.google.com/store/apps/details?id=com.oliveirafocs.beachesinbrasil",
-            background_path: "/src/assets/praiaslimpas.PNG"
+            background_path: "praiaslimpas.PNG"
         },
 
         {
@@ -49,7 +49,7 @@
             description: "Aplicativo de consulta de CNPJ", 
             language: "Typescript/React Native", 
             html_url: "https://play.google.com/store/apps/details?id=com.oliveirafocs.cnpjrapido",
-            background_path: "/src/assets/cnpjrapido.PNG"
+            background_path: "cnpjrapido.PNG"
         },
 
                 {
@@ -57,7 +57,7 @@
             description: "Aplicativo de cálculo de IMC (Índice de massa corporal)", 
             language: "Typescript/React Native", 
             html_url: "https://play.google.com/store/apps/details?id=com.oliveirafocs.imccalculadora",
-            background_path: "/src/assets/imccalculadora.PNG"
+            background_path: "imccalculadora.PNG"
         }
     ]
     
