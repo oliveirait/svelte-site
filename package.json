@@ -28,6 +28,7 @@
   "type": "module",
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
-    "dotenv": "^16.3.1"
+    "dotenv": "^16.3.1",
+    "lucide-svelte": "^0.299.0"
   }
 }

@@ -1,7 +1,9 @@
 <script lang="ts">
+   
     //let image = "https://play-lh.googleusercontent.com/f09eDctsng262frDLHgQb8WO0CE8W9bkYYAkN9rh9C4SIqeqniL783aWmzRxCCZZejaA=w3840-h2160-rw"
     let href = "https://play.google.com/store/apps/dev?id=7575363218543079895"
-    const image = "profile.png"
+    const image = "profile.jpg"
+
 </script>
 
 
