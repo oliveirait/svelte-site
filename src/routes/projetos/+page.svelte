@@ -4,7 +4,7 @@
     import { onMount } from "svelte";
     import { items } from "../../config/assets_path";
 
-    const title = 'Projetos'
+    //const title = 'Projetos'
     //const template = "https://files.tecnoblog.net/wp-content/uploads/2022/06/capa-github-700x394.jpg"
     //const endpoint2 = "https://api.github.com/users/oliveirait/repos"
 
