@@ -2,7 +2,6 @@
     let logo = "https://lh3.googleusercontent.com/0jEahNN0RTjsEwTICoyZK8nCXfUIEqDk80059VxOuMhy3Nt8Hnv9Mlq36l8EYpR56w"
 </script>
 
-
 <img 
     src={logo} 
     alt="Logo" 

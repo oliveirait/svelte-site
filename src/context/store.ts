@@ -1,37 +1,10 @@
+import { writable } from "svelte/store";
 
-type Buttons = {
-    playstore: string
-    github: string
-    linkedin: string
-}
+export const globalLang = writable({
+    lang: 'pt'
+})
 
-type Home = {
-    title: string
-    description: string
-    buttons: Buttons
-}
-
-type Menu = {
-    home: string
-    projects: string
-    contact: string
-}
-
-type Header = {
-    name: string
-    menu: Menu
-}
-
-export type LanguageProps = {
-    header: Header
-    home: Home
-}
-
-export type globalLangProps = {
-    lang: string
-}
-
-export const globalDataLangPt = {
+export const globalDataLangPt = writable({
     header: {
         name: "Felipe's portfolio",
         menu: {
@@ -69,9 +42,9 @@ export const globalDataLangPt = {
             sending: "Enviando mensagem..."
         }
     }
-}
+})
 
-export const globalDataLangEn = {
+export const globalDataLangEn = writable({
     header: {
         name: "Felipe's portfolio",
         menu: {
@@ -110,4 +83,4 @@ export const globalDataLangEn = {
             sending: "Sending..."
         }
     }
-}
+})
