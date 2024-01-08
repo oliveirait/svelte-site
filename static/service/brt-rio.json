@@ -1,6 +1,6 @@
 {
   "home": {
-    "available": true,
+    "available": false,
     "alert": false,
     "message": {
       "title": "PROBLEMAS TÉCNICOS",
