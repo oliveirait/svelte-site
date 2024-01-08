@@ -7,8 +7,8 @@
     let menuPt = [
         {href: '/', label: $globalDataLangPt.header.menu.home },
         {href: '/projetos', label: $globalDataLangPt.header.menu.projects},
-        {href: '/contato', label: $globalDataLangPt.header.menu.contact},
-        {href: '/blog', label: 'Blog'}
+        {href: '/contato', label: $globalDataLangPt.header.menu.contact}
+        //{href: '/blog', label: 'Blog'}
     ]
 
     let menuEn = [
