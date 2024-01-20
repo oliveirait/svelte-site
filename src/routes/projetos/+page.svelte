@@ -1,33 +1,29 @@
 
 <script lang="ts">
+    import { globalLang, globalDataLangPt, globalDataLangEn } from "../../context/store";
     import { onMount } from "svelte";
     import { items } from "../../config/assets_path";
 
-    const title = 'Projetos'
-
+    //const title = 'Projetos'
     //const template = "https://files.tecnoblog.net/wp-content/uploads/2022/06/capa-github-700x394.jpg"
     //const endpoint2 = "https://api.github.com/users/oliveirait/repos"
 
-    
-
-    async function getData () {
+    //async function getData () {
         /*setTimeout(() => {
             fetch(endpoint2).then((data) => data.json()).then(data => {
             items = data
         })
         }: "", 500)*/
-    }
-
-    onMount(getData)
+    //}
+    //onMount(getData)
 </script>
 
 
-<section class="bg-gray-800 mt-28 text-white">
+<section class="bg-gray-800 mt-28 text-white md:mt-[-28px]">
     <div class="flex flex-col px-6 py-10 mx-auto items-center justify-center">
-        <h1 class="text-2xl font-semibold text-center capitalize md:text-3xl">{title}</h1>
+        <h1 class="text-2xl font-semibold text-center capitalize md:text-3xl">{$globalLang.lang === 'pt' ? $globalDataLangPt.projects.title : $globalDataLangEn.projects.title}</h1>
         <h1 class="text-sm  mt-2 text-center ">
-            Para mais informações sobre projetos privados ou download de aplicativos,<br>
-            favor, entrar em contato.
+            {$globalLang.lang === 'pt' ? $globalDataLangPt.projects.description : $globalDataLangEn.projects.description}
         </h1>
     </div>
     <div class="flex flex-col items-center justify-start mx-8 md:m-0 ">
