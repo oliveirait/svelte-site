@@ -26,14 +26,13 @@
             {$globalLang.lang === 'pt' ? $globalDataLangPt.projects.description : $globalDataLangEn.projects.description}
         </h1>
     </div>
-    <div class="flex flex-col items-center justify-start mx-8 md:m-0 ">
+    <div class="flex flex-col lg:grid lg:grid-cols-2 lg:p-6 lg:gap-4 items-center justify-start mx-8 md:m-0 ">
         {#if items.length > 0}
         {#each items as {name, description, language, html_url, background_path}}
-        <div class="
-            mb-8 
+        <div class="mb-8
             bg-cover bg-no-repeat flex flex-col gap-8 mt-8 bg-center w-full 
-            rounded-2xl shadow-md shadow-white hover:scale-105 
-            transition ease-in duration-200 " style="background-image: url({background_path} "
+            rounded-2xl shadow-md shadow-white hover:scale-[1.005]
+            transition ease-in duration-100 " style="background-image: url({background_path} "
         >
             <a href={html_url} target="_blank">
                 <div class="flex items-end overflow-hidden h-96 rounded-2xl w-full" >

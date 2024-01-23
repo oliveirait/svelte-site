@@ -17,11 +17,13 @@
 
         <div class="flex flex-col justify-center w-full px-6 py-10 items-center">
             <div class="flex flex-col items-center justify-center mt-24 md:mt-0 md:flex-row lg:items-center md:space-x-10 h-auto space-y-6">
-                <img 
-                    class="border-2 w-[300px] h-[300px] lg:w-[400px] lg:h-[400px] rounded-full shadow-2xl shadow-yellow-500" 
-                    src={image} 
-                    alt="Logo Projeto Github"
-                >
+                <figure>
+                    <img 
+                        class="border-2 w-[300px] h-[300px] lg:w-[400px] lg:h-[400px] rounded-full shadow-2xl shadow-yellow-500" 
+                        src={image} 
+                        alt="Logo Projeto Github"
+                    >
+                </figure>
 
                 <div class="flex flex-col items-center justify-center gap-4 text-center md:text-start ">
                     <h1 class="text-2xl font-semibold text-gray-100 md:self-start">
@@ -35,11 +37,13 @@
                     <div class="flex flex-row gap-2 items-center justify-center md:justify-start self-center md:self-start"> 
                         {#each linkButtons as {title, src, url} }
                             <a href={url} target="_blank" class="w-28 min-w-24 md:max-w-32 md:min-w-24 h-10 mt-8 gap-2 rounded-lg bg-gray-300 border border-black items-center justify-center text-gray-800 flex hover:scale-110 ease-in transition ">
-                                <img 
-                                    class="object-cover border object-center w-[20px] h-[20px] md:w-[25px] md:h-[25px] rounded-full" 
-                                    src={src}
-                                    alt="Image_icon"
-                                />
+                                <figure>
+                                    <img 
+                                        class="object-cover border object-center w-[20px] h-[20px] md:w-[25px] md:h-[25px] rounded-full" 
+                                        src={src}
+                                        alt="Image_icon"
+                                    />
+                                </figure>
                                 <p class="text-sm md:text-md "> {title} </p>
                             </a>
                         {/each}

@@ -28,21 +28,23 @@
 
 </script>
 
-<nav class="flex items-center justify-center shadow-lg shadow-gray-600 bg-gray-800 font-medium text-white z-10 fixed top-0 w-full">
+<header class="flex items-center justify-center shadow-lg shadow-gray-600 bg-gray-800 font-medium text-white z-10 fixed top-0 w-full">
     <div class="w-[1000px] flex flex-row justify-center items-center md:justify-between h-24 md:h-16 ">
 
         <a href="/">
             <div class="hidden md:flex flex-row gap-4 items-center justify-center">
-                <img src={icon} alt="Logo" class="h-10 w-10 border-2 border-white rounded-full " />
+                <figure>
+                    <img src={icon} alt="Logo" class="h-10 w-10 border-2 border-white rounded-full " />
+                </figure>
                 <p>{$globalDataLangEn.header.name}</p>
             </div>
         </a>
         
-        <div class="flex items-center justify-center capitalize text-gray-500 space-x-2">
+        <nav class="flex items-center justify-center capitalize text-gray-500 space-x-2">
             {#each ($globalLang.lang === 'pt' ? menuPt : menuEn) as {href, label}}
                 <a {href} class="w-24 border-b-2 text-gray-100 border-transparent hover:scale-105 hover:transition ease-in transition-colors duration-300 hover:border-blue-400 p-2 items-center justify-center flex">{label}</a>
             {/each}
-        </div>
+        </nav>
 
         <div class="flex-col w-auto md:w-40 md:p-2 flex md:flex-row items-center justify-center gap-2 md:space-x-2 rounded-md  p-2">
             <button 
@@ -66,4 +68,4 @@
             </button>
         </div>
     </div>
-</nav>
+</header>
